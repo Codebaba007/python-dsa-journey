@@ -6,7 +6,7 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 ## Objectives
 
-- Solve 150–200 carefully selected LeetCode problems.
+- Solve carefully selected LeetCode problems.
 - Build a solid understanding of core data structures and algorithms.
 - Improve analytical thinking and coding interview skills.
 - Write clean, maintainable Python code.
