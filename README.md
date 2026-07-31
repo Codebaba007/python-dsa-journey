@@ -13,18 +13,15 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 - Maintain a consistent daily learning habit.
 
 ---
-
 ## Progress
 
-| Metric | Count |
-|--------|------:|
-| Total Solved | **3** |
-| Easy | **3** |
-| Medium | **0** |
-| Hard | **0** |
-| Current Streak | **3 Days** |
+- **Current Topic:** Arrays & Hashing
+- **Total Problems Solved:** 4
+- **Easy:** 4
+- **Medium:** 0
+- **Hard:** 0
+- **Current Streak:** 4 Days
 
----
 
 ## Learning Roadmap
 
@@ -51,11 +48,11 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 ## Solved Problems
 
 | Day | Problem | Difficulty | Topic | Solution |
-|-----|----------|------------|--------|----------|
-| 1 | Two Sum (#1) | Easy | Arrays | `arrays/two_sum.py` |
-| 2 | Contains Duplicate (#217) | Easy | Arrays | `arrays/contains_duplicate.py` |
-| 3 | Best Time to Buy and Sell Stock (#121) | Easy | Arrays | `arrays/best_time_to_buy_and_sell_stock.py` |
-
+| :-- | :------ | :--------: | :---- | :------: |
+| 1 | Two Sum | Easy | Arrays & Hashing | [Python](arrays/two_sum.py) |
+| 2 | Contains Duplicate | Easy | Arrays & Hashing | [Python](arrays/contains_duplicate.py) |
+| 3 | Best Time to Buy and Sell Stock | Easy | Arrays | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
+| 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
 ---
 
 ## Repository Structure
