@@ -1,6 +1,6 @@
 # Python DSA Journey
 
-A structured record of my journey learning **Data Structures and Algorithms (DSA)** using **Python**. This repository focuses on developing strong problem-solving skills, mastering algorithmic patterns, and writing clean, efficient code through consistent daily practice.
+A structured record of my journey learning **Data Structures and Algorithms (DSA)** using **Python**. This repository documents my progress toward becoming a better problem solver through consistent practice, algorithmic thinking, and clean, efficient code.
 
 ---
 
@@ -16,12 +16,12 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 ## Progress
 
-- **Current Topic:** Arrays & Hashing
-- **Total Problems Solved:** **5**
-- **Easy:** **4**
+- **Current Topic:** Arrays & Dynamic Programming
+- **Total Problems Solved:** **6**
+- **Easy:** **5**
 - **Medium:** **1**
 - **Hard:** **0**
-- **Current Streak:** **5 Days**
+- **Current Streak:** **6 Days**
 
 ---
 
@@ -56,6 +56,7 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 | 3 | Best Time to Buy and Sell Stock | Easy | Arrays | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
 | 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
 | 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
+| 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
 
 ---
 
@@ -69,7 +70,8 @@ python-dsa-journey/
 │   ├── contains_duplicate.py
 │   ├── best_time_to_buy_and_sell_stock.py
 │   ├── valid_anagram.py
-│   └── product_of_array_except_self.py
+│   ├── product_of_array_except_self.py
+│   └── maximum_subarray.py
 │
 ├── strings/
 ├── hash_maps/
@@ -95,13 +97,14 @@ python-dsa-journey/
 
 For every problem, I follow the same process:
 
-1. Understand the problem.
+1. Read and understand the problem.
 2. Identify the underlying algorithm or pattern.
 3. Solve the problem independently.
 4. Review and optimize the solution.
 5. Analyze time and space complexity.
 6. Save the final solution to this repository.
-7. Commit and push the changes to GitHub.
+7. Update the README with my progress.
+8. Commit and push the changes to GitHub.
 
 ---
 
@@ -124,7 +127,7 @@ For every problem, I follow the same process:
 
 This repository is more than a collection of accepted LeetCode solutions. It documents my continuous growth as a software engineer through disciplined practice and deliberate learning.
 
-I believe consistency, understanding, and writing high-quality code are more valuable than simply solving a large number of problems. Every solution represents a concept learned, practiced, and reviewed.
+Every solution represents a concept that I have understood, implemented, reviewed, and committed to my GitHub journey. My focus is on building strong problem-solving skills rather than simply accumulating solved problems.
 
 ---
 
