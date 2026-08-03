@@ -57,7 +57,15 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 | 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
 | 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
 | 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
-
+| Day | Problem | Difficulty | Topic | Solution |
+| :-- | :------ | :--------: | :---- | :------: |
+| 1 | Two Sum | Easy | Arrays & Hashing | [Python](arrays/two_sum.py) |
+| 2 | Contains Duplicate | Easy | Arrays & Hashing | [Python](arrays/contains_duplicate.py) |
+| 3 | Best Time to Buy and Sell Stock | Easy | Arrays | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
+| 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
+| 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
+| 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
+| 7 | Maximum Product Subarray | Medium | Arrays | [Python](arrays/maximum_product_subarray.py) |
 ---
 
 ## Repository Structure
