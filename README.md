@@ -16,14 +16,12 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 ## Progress
 
-- **Current Topic:** Arrays & Dynamic Programming
-- **Total Problems Solved:** **6**
+- **Current Topic:** Two Pointers
+- **Total Problems Solved:** **8**
 - **Easy:** **5**
-- **Medium:** **1**
+- **Medium:** **3**
 - **Hard:** **0**
-- **Current Streak:** **6 Days**
-
----
+- **Current Streak:** **8 Days**
 
 ## Learning Roadmap
 
@@ -66,6 +64,7 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 | 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
 | 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
 | 7 | Maximum Product Subarray | Medium | Arrays | [Python](arrays/maximum_product_subarray.py) |
+| 8 | Container With Most Water | Medium | Two Pointers | [Python](arrays/container_with_most_water.py) |
 ---
 
 ## Repository Structure
@@ -79,7 +78,9 @@ python-dsa-journey/
 │   ├── best_time_to_buy_and_sell_stock.py
 │   ├── valid_anagram.py
 │   ├── product_of_array_except_self.py
-│   └── maximum_subarray.py
+│   ├── maximum_subarray.py
+│   ├── maximum_product_subarray.py
+│   └── container_with_most_water.py
 │
 ├── strings/
 ├── hash_maps/
