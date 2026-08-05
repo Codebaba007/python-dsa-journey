@@ -13,15 +13,14 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 - Develop consistency through daily problem solving.
 
 ---
-
 ## Progress
 
 - **Current Topic:** Two Pointers
-- **Total Problems Solved:** **8**
+- **Total Problems Solved:** **9**
 - **Easy:** **5**
-- **Medium:** **3**
+- **Medium:** **4**
 - **Hard:** **0**
-- **Current Streak:** **8 Days**
+- **Current Streak:** **9 Days**
 
 ## Learning Roadmap
 
@@ -44,7 +43,6 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 > A topic is marked complete only after mastering its core patterns and representative interview problems.
 
 ---
-
 ## Solved Problems
 
 | Day | Problem | Difficulty | Topic | Solution |
@@ -55,16 +53,10 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 | 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
 | 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
 | 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
-| Day | Problem | Difficulty | Topic | Solution |
-| :-- | :------ | :--------: | :---- | :------: |
-| 1 | Two Sum | Easy | Arrays & Hashing | [Python](arrays/two_sum.py) |
-| 2 | Contains Duplicate | Easy | Arrays & Hashing | [Python](arrays/contains_duplicate.py) |
-| 3 | Best Time to Buy and Sell Stock | Easy | Arrays | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
-| 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
-| 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
-| 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
 | 7 | Maximum Product Subarray | Medium | Arrays | [Python](arrays/maximum_product_subarray.py) |
 | 8 | Container With Most Water | Medium | Two Pointers | [Python](arrays/container_with_most_water.py) |
+| 9 | Move Zeroes | Easy | Two Pointers | [Python](arrays/move_zeroes.py) |
+
 ---
 
 ## Repository Structure
