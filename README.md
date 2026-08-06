@@ -1,26 +1,23 @@
 # Python DSA Journey
 
-A structured record of my journey learning **Data Structures and Algorithms (DSA)** using **Python**. This repository documents my progress toward becoming a better problem solver through consistent practice, algorithmic thinking, and clean, efficient code.
+A structured record of my journey learning **Data Structures and Algorithms (DSA)** using **Python**.
+
+This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
 ---
 
-## Objectives
-
-- Solve carefully selected LeetCode problems.
-- Build a strong understanding of core data structures and algorithms.
-- Improve analytical thinking and coding interview skills.
-- Write clean, maintainable Python code.
-- Develop consistency through daily problem solving.
-
----
 ## Progress
 
-- **Current Topic:** Two Pointers
-- **Total Problems Solved:** **9**
-- **Easy:** **5**
-- **Medium:** **4**
-- **Hard:** **0**
-- **Current Streak:** **9 Days**
+| Metric | Value |
+|--------|------:|
+| Total Problems Solved | **10** |
+| Easy | **6** |
+| Medium | **4** |
+| Hard | **0** |
+| Current Streak | **10 Days** |
+| Current Focus | **Arrays & Two Pointers** |
+
+---
 
 ## Learning Roadmap
 
@@ -40,57 +37,56 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 - [ ] Greedy
 - [ ] Backtracking
 
-> A topic is marked complete only after mastering its core patterns and representative interview problems.
+> A topic is marked complete only after mastering its core concepts and representative interview problems.
 
 ---
+
+## Patterns Learned
+
+- Hash Map
+- Hash Set
+- Sorting
+- Frequency Counting
+- Running Minimum
+- Prefix & Suffix Arrays
+- Kadane's Algorithm
+- Dynamic Product Tracking
+- Two Pointers
+- Boyer-Moore Voting Algorithm
+
+This section will continue to grow as I learn new algorithmic patterns.
+
+---
+
 ## Solved Problems
 
-| Day | Problem | Difficulty | Topic | Solution |
-| :-- | :------ | :--------: | :---- | :------: |
-| 1 | Two Sum | Easy | Arrays & Hashing | [Python](arrays/two_sum.py) |
-| 2 | Contains Duplicate | Easy | Arrays & Hashing | [Python](arrays/contains_duplicate.py) |
-| 3 | Best Time to Buy and Sell Stock | Easy | Arrays | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
-| 4 | Valid Anagram | Easy | Arrays & Hashing | [Python](arrays/valid_anagram.py) |
-| 5 | Product of Array Except Self | Medium | Arrays | [Python](arrays/product_of_array_except_self.py) |
-| 6 | Maximum Subarray | Easy | Arrays / Dynamic Programming | [Python](arrays/maximum_subarray.py) |
-| 7 | Maximum Product Subarray | Medium | Arrays | [Python](arrays/maximum_product_subarray.py) |
-| 8 | Container With Most Water | Medium | Two Pointers | [Python](arrays/container_with_most_water.py) |
-| 9 | Move Zeroes | Easy | Two Pointers | [Python](arrays/move_zeroes.py) |
+| Day | Problem | Difficulty | Pattern |
+| :-- | :------ | :--------: | :------ |
+| 1 | Two Sum | Easy | Hash Map |
+| 2 | Contains Duplicate | Easy | Hash Set |
+| 3 | Best Time to Buy and Sell Stock | Easy | Running Minimum |
+| 4 | Valid Anagram | Easy | Sorting / Frequency Counting |
+| 5 | Product of Array Except Self | Medium | Prefix & Suffix Arrays |
+| 6 | Maximum Subarray | Easy | Kadane's Algorithm |
+| 7 | Maximum Product Subarray | Medium | Dynamic Product Tracking |
+| 8 | Container With Most Water | Medium | Two Pointers |
+| 9 | Move Zeroes | Easy | Two Pointers |
+| 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm |
 
 ---
 
-## Repository Structure
+## Milestones
 
-```text
-python-dsa-journey/
-│
-├── arrays/
-│   ├── two_sum.py
-│   ├── contains_duplicate.py
-│   ├── best_time_to_buy_and_sell_stock.py
-│   ├── valid_anagram.py
-│   ├── product_of_array_except_self.py
-│   ├── maximum_subarray.py
-│   ├── maximum_product_subarray.py
-│   └── container_with_most_water.py
-│
-├── strings/
-├── hash_maps/
-├── two_pointers/
-├── sliding_window/
-├── stack/
-├── queue/
-├── linked_list/
-├── binary_search/
-├── trees/
-├── heap/
-├── graphs/
-├── dynamic_programming/
-├── greedy/
-├── backtracking/
-│
-└── README.md
-```
+- First accepted solution
+- First medium problem solved
+- 10 problems solved
+
+Upcoming milestones:
+
+- 25 problems solved
+- 50 problems solved
+- 100 problems solved
+- Complete the NeetCode 150 roadmap
 
 ---
 
@@ -98,21 +94,22 @@ python-dsa-journey/
 
 For every problem, I follow the same process:
 
-1. Read and understand the problem.
+1. Understand the problem.
 2. Identify the underlying algorithm or pattern.
-3. Solve the problem independently.
-4. Review and optimize the solution.
+3. Solve it independently.
+4. Optimize the solution.
 5. Analyze time and space complexity.
-6. Save the final solution to this repository.
-7. Update the README with my progress.
+6. Save the final solution.
+7. Update this repository.
 8. Commit and push the changes to GitHub.
 
 ---
 
-## Profiles
+## Current Goal
 
-- **GitHub:** https://github.com/Mehedi032003
-- **LeetCode:** https://leetcode.com/u/Mehedi_Core_G/
+Build a strong foundation in Data Structures and Algorithms before progressing to advanced interview topics such as Trees, Graphs, Dynamic Programming, and System Design.
+
+The focus is on understanding algorithmic patterns rather than memorizing individual solutions.
 
 ---
 
@@ -124,11 +121,18 @@ For every problem, I follow the same process:
 
 ---
 
+## Profiles
+
+- **GitHub:** https://github.com/Mehedi032003
+- **LeetCode:** https://leetcode.com/u/Mehedi_Core_G/
+
+---
+
 ## Learning Philosophy
 
-This repository is more than a collection of accepted LeetCode solutions. It documents my continuous growth as a software engineer through disciplined practice and deliberate learning.
+This repository is more than a collection of accepted LeetCode solutions.
 
-Every solution represents a concept that I have understood, implemented, reviewed, and committed to my GitHub journey. My focus is on building strong problem-solving skills rather than simply accumulating solved problems.
+Each problem represents a concept that I have studied, implemented, reviewed, and documented. My objective is to continuously improve my analytical thinking, coding ability, and understanding of algorithms through disciplined, consistent practice.
 
 ---
 
