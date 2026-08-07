@@ -10,12 +10,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **10** |
-| Easy | **6** |
+| Total Problems Solved | **11** |
+| Easy | **7** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **10 Days** |
-| Current Focus | **Arrays & Two Pointers** |
+| Current Streak | **11 Days** |
+| Current Focus | **Two Pointers** |
 
 ---
 
@@ -40,7 +40,6 @@ This repository documents my progress toward becoming a better problem solver by
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
 
 ---
-
 ## Patterns Learned
 
 - Hash Map
@@ -72,14 +71,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 8 | Container With Most Water | Medium | Two Pointers |
 | 9 | Move Zeroes | Easy | Two Pointers |
 | 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm |
-
+| 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 10 problems solved
+- 11 problems solved
 
 Upcoming milestones:
 
