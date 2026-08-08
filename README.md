@@ -10,14 +10,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **11** |
-| Easy | **7** |
+| Total Problems Solved | **12** |
+| Easy | **8** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **11 Days** |
+| Current Streak | **12 Days** |
 | Current Focus | **Two Pointers** |
-
----
 
 ## Learning Roadmap
 
@@ -52,6 +50,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Dynamic Product Tracking
 - Two Pointers
 - Boyer-Moore Voting Algorithm
+- Slow/Fast Pointer
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -72,6 +71,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 9 | Move Zeroes | Easy | Two Pointers |
 | 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm |
 | 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer |
+| 12 | Merge Sorted Array | Easy | Two Pointers | 
 ---
 
 ## Milestones
