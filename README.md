@@ -10,12 +10,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **12** |
-| Easy | **8** |
+| Total Problems Solved | **13** |
+| Easy | **9** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **12 Days** |
-| Current Focus | **Two Pointers** |
+| Current Streak | **13 Days** |
+| Current Focus | **Arrays & Two Pointers** |
 
 ## Learning Roadmap
 
@@ -72,13 +72,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm |
 | 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer |
 | 12 | Merge Sorted Array | Easy | Two Pointers | 
+| 13 | Remove Element | Easy | Two Pointers | 
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 11 problems solved
+- 13 problems solved
 
 Upcoming milestones:
 
