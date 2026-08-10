@@ -10,11 +10,11 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **13** |
-| Easy | **9** |
+| Total Problems Solved | **14** |
+| Easy | **10** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **13 Days** |
+| Current Streak | **14 Days** |
 | Current Focus | **Arrays & Two Pointers** |
 
 ## Learning Roadmap
@@ -57,29 +57,31 @@ This section will continue to grow as I learn new algorithmic patterns.
 ---
 
 ## Solved Problems
+## Solved Problems
 
-| Day | Problem | Difficulty | Pattern |
-| :-- | :------ | :--------: | :------ |
-| 1 | Two Sum | Easy | Hash Map |
-| 2 | Contains Duplicate | Easy | Hash Set |
-| 3 | Best Time to Buy and Sell Stock | Easy | Running Minimum |
-| 4 | Valid Anagram | Easy | Sorting / Frequency Counting |
-| 5 | Product of Array Except Self | Medium | Prefix & Suffix Arrays |
-| 6 | Maximum Subarray | Easy | Kadane's Algorithm |
-| 7 | Maximum Product Subarray | Medium | Dynamic Product Tracking |
-| 8 | Container With Most Water | Medium | Two Pointers |
-| 9 | Move Zeroes | Easy | Two Pointers |
-| 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm |
-| 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer |
-| 12 | Merge Sorted Array | Easy | Two Pointers | 
-| 13 | Remove Element | Easy | Two Pointers | 
+| Day | Problem | Difficulty | Pattern | Solution |
+| :-- | :------ | :--------: | :------ | :------: |
+| 1 | Two Sum | Easy | Hash Map | [Python](arrays/two_sum.py) |
+| 2 | Contains Duplicate | Easy | Hash Set | [Python](arrays/contains_duplicate.py) |
+| 3 | Best Time to Buy and Sell Stock | Easy | Running Minimum | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
+| 4 | Valid Anagram | Easy | Sorting / Frequency Counting | [Python](arrays/valid_anagram.py) |
+| 5 | Product of Array Except Self | Medium | Prefix & Suffix Arrays | [Python](arrays/product_of_array_except_self.py) |
+| 6 | Maximum Subarray | Easy | Kadane's Algorithm | [Python](arrays/maximum_subarray.py) |
+| 7 | Maximum Product Subarray | Medium | Dynamic Product Tracking | [Python](arrays/maximum_product_subarray.py) |
+| 8 | Container With Most Water | Medium | Two Pointers | [Python](arrays/container_with_most_water.py) |
+| 9 | Move Zeroes | Easy | Two Pointers | [Python](arrays/move_zeroes.py) |
+| 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm | [Python](arrays/majority_element.py) |
+| 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer | [Python](arrays/remove_duplicates_from_sorted_array.py) |
+| 12 | Merge Sorted Array | Easy | Two Pointers | [Python](arrays/merge_sorted_array.py) |
+| 13 | Remove Element | Easy | Two Pointers | [Python](arrays/remove_element.py) |
+| 14 | Plus One | Easy | Arrays | [Python](arrays/plus_one.py) |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 13 problems solved
+- 14 problems solved
 
 Upcoming milestones:
 
