@@ -10,11 +10,11 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **14** |
-| Easy | **10** |
+| Total Problems Solved | **15** |
+| Easy | **11** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **14 Days** |
+| Current Streak | **15 Days** |
 | Current Focus | **Arrays & Two Pointers** |
 
 ## Learning Roadmap
@@ -51,12 +51,12 @@ This repository documents my progress toward becoming a better problem solver by
 - Two Pointers
 - Boyer-Moore Voting Algorithm
 - Slow/Fast Pointer
+- Math / XOR
 
 This section will continue to grow as I learn new algorithmic patterns.
 
 ---
 
-## Solved Problems
 ## Solved Problems
 
 | Day | Problem | Difficulty | Pattern | Solution |
@@ -75,13 +75,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 12 | Merge Sorted Array | Easy | Two Pointers | [Python](arrays/merge_sorted_array.py) |
 | 13 | Remove Element | Easy | Two Pointers | [Python](arrays/remove_element.py) |
 | 14 | Plus One | Easy | Arrays | [Python](arrays/plus_one.py) |
+| 15 | Missing Number | Easy | Math / XOR | [Python](arrays/missing_number.py) |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 14 problems solved
+- 15 problems solved
 
 Upcoming milestones:
 
