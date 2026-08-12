@@ -5,17 +5,16 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
 ---
-
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **15** |
-| Easy | **11** |
+| Total Problems Solved | **16** |
+| Easy | **12** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **15 Days** |
-| Current Focus | **Arrays & Two Pointers** |
+| Current Streak | **16 Days** |
+| Current Focus | **Binary Search** |
 
 ## Learning Roadmap
 
@@ -76,13 +75,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 13 | Remove Element | Easy | Two Pointers | [Python](arrays/remove_element.py) |
 | 14 | Plus One | Easy | Arrays | [Python](arrays/plus_one.py) |
 | 15 | Missing Number | Easy | Math / XOR | [Python](arrays/missing_number.py) |
+| 16 | Binary Search | Easy | Binary Search | [Python](arrays/binary_search.py) |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 15 problems solved
+- 16 problems solved
 
 Upcoming milestones:
 
