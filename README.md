@@ -76,13 +76,15 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 14 | Plus One | Easy | Arrays | [Python](arrays/plus_one.py) |
 | 15 | Missing Number | Easy | Math / XOR | [Python](arrays/missing_number.py) |
 | 16 | Binary Search | Easy | Binary Search | [Python](arrays/binary_search.py) |
+| 17 | Search Insert Position | Easy | Binary Search | [Python](arrays/search_insert_position.py) |
+
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 16 problems solved
+- 17 problems solved
 
 Upcoming milestones:
 
