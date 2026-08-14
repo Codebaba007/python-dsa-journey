@@ -7,14 +7,12 @@ This repository documents my progress toward becoming a better problem solver by
 ---
 ## Progress
 
-| Metric | Value |
-|--------|------:|
-| Total Problems Solved | **16** |
-| Easy | **12** |
+| Total Problems Solved | **18** |
+| Easy | **14** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **16 Days** |
-| Current Focus | **Binary Search** |
+| Current Streak | **18 Days** |
+| Current Focus | **Two Pointers** |
 
 ## Learning Roadmap
 
@@ -77,6 +75,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 15 | Missing Number | Easy | Math / XOR | [Python](arrays/missing_number.py) |
 | 16 | Binary Search | Easy | Binary Search | [Python](arrays/binary_search.py) |
 | 17 | Search Insert Position | Easy | Binary Search | [Python](arrays/search_insert_position.py) |
+| 18 | Valid Palindrome | Easy | Two Pointers | [Python](arrays/valid_palindrome.py) |
 
 ---
 
