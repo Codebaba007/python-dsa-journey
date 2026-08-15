@@ -7,12 +7,14 @@ This repository documents my progress toward becoming a better problem solver by
 ---
 ## Progress
 
-| Total Problems Solved | **18** |
-| Easy | **14** |
+| Metric | Value |
+|--------|------:|
+| Total Problems Solved | **19** |
+| Easy | **15** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **18 Days** |
-| Current Focus | **Two Pointers** |
+| Current Streak | **19 Days** |
+| Current Focus | **Graph / Trust Counting** |
 
 ## Learning Roadmap
 
@@ -49,6 +51,8 @@ This repository documents my progress toward becoming a better problem solver by
 - Boyer-Moore Voting Algorithm
 - Slow/Fast Pointer
 - Math / XOR
+- Binary Search
+- Graph / Trust Counting
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -76,6 +80,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 16 | Binary Search | Easy | Binary Search | [Python](arrays/binary_search.py) |
 | 17 | Search Insert Position | Easy | Binary Search | [Python](arrays/search_insert_position.py) |
 | 18 | Valid Palindrome | Easy | Two Pointers | [Python](arrays/valid_palindrome.py) |
+| 19 | Find the Town Judge | Easy | Graph / Trust Counting | [Python](arrays/find_the_town_judge.py) |
 
 ---
 
