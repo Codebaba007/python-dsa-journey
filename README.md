@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **19** |
-| Easy | **15** |
+| Total Problems Solved | **20** |
+| Easy | **16** |
 | Medium | **4** |
 | Hard | **0** |
-| Current Streak | **19 Days** |
-| Current Focus | **Graph / Trust Counting** |
+| Current Streak | **20 Days** |
+| Current Focus | **Strings** |
 
 ## Learning Roadmap
 
@@ -53,6 +53,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Math / XOR
 - Binary Search
 - Graph / Trust Counting
+- Strings
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -81,14 +82,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 17 | Search Insert Position | Easy | Binary Search | [Python](arrays/search_insert_position.py) |
 | 18 | Valid Palindrome | Easy | Two Pointers | [Python](arrays/valid_palindrome.py) |
 | 19 | Find the Town Judge | Easy | Graph / Trust Counting | [Python](arrays/find_the_town_judge.py) |
-
+| 20 | Longest Common Prefix | Easy | Strings | [Python](arrays/longest_common_prefix.py) |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 17 problems solved
+- 20 problems solved
 
 Upcoming milestones:
 
