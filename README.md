@@ -9,13 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **22** |
-| Easy | **17** |
+| Total Problems Solved | **23** |
+| Easy | **18** |
 | Medium | **5** |
 | Hard | **0** |
-| Current Streak | **22 Days** |
-| Current Focus | **Greedy** |
-
+| Current Streak | **23 Days** |
+| Current Focus | **Strings** |
 ## Learning Roadmap
 
 - [ ] Arrays
@@ -86,6 +85,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 20 | Longest Common Prefix | Easy | Strings | [Python](arrays/longest_common_prefix.py) |
 | 21 | Valid Parentheses | Easy | Stack | [Python](arrays/valid_parentheses.py) |
 | 22 | Best Time to Buy and Sell Stock II | Medium | Greedy | [Python](arrays/best_time_to_buy_and_sell_stock_ii.py) |
+| 23 | Length of Last Word | Easy | Strings | [Python](arrays/length_of_last_word.py) |
 ---
 
 ## Milestones
