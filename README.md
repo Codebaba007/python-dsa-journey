@@ -92,7 +92,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 
 - First accepted solution
 - First medium problem solved
-- 22 problems solved
+- 23 problems solved
 
 Upcoming milestones:
 
