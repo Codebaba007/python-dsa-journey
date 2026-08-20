@@ -4,17 +4,16 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
----
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **23** |
-| Easy | **18** |
+| Total Problems Solved | **24** |
+| Easy | **19** |
 | Medium | **5** |
 | Hard | **0** |
-| Current Streak | **23 Days** |
-| Current Focus | **Strings** |
+| Current Streak | **24 Days** |
+| Current Focus | **Hash Map / Frequency Counting** |
 ## Learning Roadmap
 
 - [ ] Arrays
@@ -86,13 +85,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 21 | Valid Parentheses | Easy | Stack | [Python](arrays/valid_parentheses.py) |
 | 22 | Best Time to Buy and Sell Stock II | Medium | Greedy | [Python](arrays/best_time_to_buy_and_sell_stock_ii.py) |
 | 23 | Length of Last Word | Easy | Strings | [Python](arrays/length_of_last_word.py) |
+| 24 | First Unique Character in a String | Easy | Hash Map / Frequency Counting | [Python](arrays/first_unique_character_in_a_string.py) |
 ---
 
 ## Milestones
 
 - First accepted solution
 - First medium problem solved
-- 23 problems solved
+- 24 problems solved
 
 Upcoming milestones:
 
