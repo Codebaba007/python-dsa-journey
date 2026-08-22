@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **25** |
-| Easy | **20** |
+| Total Problems Solved | **26** |
+| Easy | **21** |
 | Medium | **5** |
 | Hard | **0** |
-| Current Streak | **25 Days** |
-| Current Focus | **Hash Map / Frequency Counting** |
+| Current Streak | **26 Days** |
+| Current Focus | **Hash Set / Cycle Detection** |
 
 ## Learning Roadmap
 
@@ -54,6 +54,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Graph / Trust Counting
 - Strings
 - Stack
+- Hash Set / Cycle Detection
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -88,20 +89,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 23 | Length of Last Word | Easy | Strings | [Python](arrays/length_of_last_word.py) |
 | 24 | First Unique Character in a String | Easy | Hash Map / Frequency Counting | [Python](arrays/first_unique_character_in_a_string.py) |
 | 25 | Intersection of Two Arrays II | Easy | Hash Map / Frequency Counting | [Python](arrays/intersection_of_two_arrays_ii.py) |
+| 26 | Happy Number | Easy | Hash Set / Cycle Detection | [Python](arrays/happy_number.py) |
 ---
 
-## Milestones
-
-- First accepted solution
-- First medium problem solved
-- 25 problems solved
-
-Upcoming milestones:
+## Upcoming milestones:
 
 - 25 problems solved(done)
 - 50 problems solved
 - 100 problems solved
-- Complete the NeetCode 150 roadmap
 
 ---
 
