@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **26** |
-| Easy | **21** |
+| Total Problems Solved | **27** |
+| Easy | **22** |
 | Medium | **5** |
 | Hard | **0** |
-| Current Streak | **26 Days** |
-| Current Focus | **Hash Set / Cycle Detection** |
+| Current Streak | **27 Days** |
+| Current Focus | **Hash Map / Frequency Counting** |
 
 ## Learning Roadmap
 
@@ -90,6 +90,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 24 | First Unique Character in a String | Easy | Hash Map / Frequency Counting | [Python](arrays/first_unique_character_in_a_string.py) |
 | 25 | Intersection of Two Arrays II | Easy | Hash Map / Frequency Counting | [Python](arrays/intersection_of_two_arrays_ii.py) |
 | 26 | Happy Number | Easy | Hash Set / Cycle Detection | [Python](arrays/happy_number.py) |
+| 27 | Ransom Note | Easy | Hash Map / Frequency Counting | [Python](arrays/ransom_note.py) |
 ---
 
 ## Upcoming milestones:
