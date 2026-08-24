@@ -62,35 +62,37 @@ This section will continue to grow as I learn new algorithmic patterns.
 
 ## Solved Problems
 
+## Solved Problems
+
 | Day | Problem | Difficulty | Pattern | Solution |
 | :-- | :------ | :--------: | :------ | :------: |
-| 1 | Two Sum | Easy | Hash Map | [Python](arrays/two_sum.py) |
-| 2 | Contains Duplicate | Easy | Hash Set | [Python](arrays/contains_duplicate.py) |
+| 1 | Two Sum | Easy | Hash Map | [Python](hash_map/two_sum.py) |
+| 2 | Contains Duplicate | Easy | Hash Set | [Python](hash_map/contains_duplicate.py) |
 | 3 | Best Time to Buy and Sell Stock | Easy | Running Minimum | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
-| 4 | Valid Anagram | Easy | Sorting / Frequency Counting | [Python](arrays/valid_anagram.py) |
+| 4 | Valid Anagram | Easy | Sorting / Frequency Counting | [Python](strings/valid_anagram.py) |
 | 5 | Product of Array Except Self | Medium | Prefix & Suffix Arrays | [Python](arrays/product_of_array_except_self.py) |
 | 6 | Maximum Subarray | Easy | Kadane's Algorithm | [Python](arrays/maximum_subarray.py) |
 | 7 | Maximum Product Subarray | Medium | Dynamic Product Tracking | [Python](arrays/maximum_product_subarray.py) |
-| 8 | Container With Most Water | Medium | Two Pointers | [Python](arrays/container_with_most_water.py) |
-| 9 | Move Zeroes | Easy | Two Pointers | [Python](arrays/move_zeroes.py) |
+| 8 | Container With Most Water | Medium | Two Pointers | [Python](two_pointers/container_with_most_water.py) |
+| 9 | Move Zeroes | Easy | Two Pointers | [Python](two_pointers/move_zeroes.py) |
 | 10 | Majority Element | Easy | Boyer-Moore Voting Algorithm | [Python](arrays/majority_element.py) |
-| 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer | [Python](arrays/remove_duplicates_from_sorted_array.py) |
-| 12 | Merge Sorted Array | Easy | Two Pointers | [Python](arrays/merge_sorted_array.py) |
-| 13 | Remove Element | Easy | Two Pointers | [Python](arrays/remove_element.py) |
+| 11 | Remove Duplicates from Sorted Array | Easy | Slow/Fast Pointer | [Python](two_pointers/remove_duplicates_from_sorted_array.py) |
+| 12 | Merge Sorted Array | Easy | Two Pointers | [Python](two_pointers/merge_sorted_array.py) |
+| 13 | Remove Element | Easy | Two Pointers | [Python](two_pointers/remove_element.py) |
 | 14 | Plus One | Easy | Arrays | [Python](arrays/plus_one.py) |
 | 15 | Missing Number | Easy | Math / XOR | [Python](arrays/missing_number.py) |
-| 16 | Binary Search | Easy | Binary Search | [Python](arrays/binary_search.py) |
-| 17 | Search Insert Position | Easy | Binary Search | [Python](arrays/search_insert_position.py) |
-| 18 | Valid Palindrome | Easy | Two Pointers | [Python](arrays/valid_palindrome.py) |
-| 19 | Find the Town Judge | Easy | Graph / Trust Counting | [Python](arrays/find_the_town_judge.py) |
-| 20 | Longest Common Prefix | Easy | Strings | [Python](arrays/longest_common_prefix.py) |
-| 21 | Valid Parentheses | Easy | Stack | [Python](arrays/valid_parentheses.py) |
-| 22 | Best Time to Buy and Sell Stock II | Medium | Greedy | [Python](arrays/best_time_to_buy_and_sell_stock_ii.py) |
-| 23 | Length of Last Word | Easy | Strings | [Python](arrays/length_of_last_word.py) |
-| 24 | First Unique Character in a String | Easy | Hash Map / Frequency Counting | [Python](arrays/first_unique_character_in_a_string.py) |
-| 25 | Intersection of Two Arrays II | Easy | Hash Map / Frequency Counting | [Python](arrays/intersection_of_two_arrays_ii.py) |
-| 26 | Happy Number | Easy | Hash Set / Cycle Detection | [Python](arrays/happy_number.py) |
-| 27 | Ransom Note | Easy | Hash Map / Frequency Counting | [Python](arrays/ransom_note.py) |
+| 16 | Binary Search | Easy | Binary Search | [Python](binary_search/binary_search.py) |
+| 17 | Search Insert Position | Easy | Binary Search | [Python](binary_search/search_insert_position.py) |
+| 18 | Valid Palindrome | Easy | Two Pointers | [Python](two_pointers/valid_palindrome.py) |
+| 19 | Find the Town Judge | Easy | Graph / Trust Counting | [Python](graphs/find_the_town_judge.py) |
+| 20 | Longest Common Prefix | Easy | Strings | [Python](strings/longest_common_prefix.py) |
+| 21 | Valid Parentheses | Easy | Stack | [Python](stack/valid_parentheses.py) |
+| 22 | Best Time to Buy and Sell Stock II | Medium | Greedy | [Python](greedy/best_time_to_buy_and_sell_stock_ii.py) |
+| 23 | Length of Last Word | Easy | Strings | [Python](strings/length_of_last_word.py) |
+| 24 | First Unique Character in a String | Easy | Hash Map / Frequency Counting | [Python](hash_map/first_unique_character_in_a_string.py) |
+| 25 | Intersection of Two Arrays II | Easy | Hash Map / Frequency Counting | [Python](hash_map/intersection_of_two_arrays_ii.py) |
+| 26 | Happy Number | Easy | Hash Set / Cycle Detection | [Python](hash_map/happy_number.py) |
+| 27 | Ransom Note | Easy | Hash Map / Frequency Counting | [Python](hash_map/ransom_note.py) |
 ---
 
 ## Upcoming milestones:
