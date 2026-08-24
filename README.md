@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **27** |
-| Easy | **22** |
+| Total Problems Solved | **28** |
+| Easy | **23** |
 | Medium | **5** |
 | Hard | **0** |
-| Current Streak | **27 Days** |
-| Current Focus | **Hash Map / Frequency Counting** |
+| Current Streak | **28 Days** |
+| Current Focus | **Strings / Hash Maps** |
 
 ## Learning Roadmap
 
@@ -55,6 +55,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Strings
 - Stack
 - Hash Set / Cycle Detection
+- String Mapping
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -93,6 +94,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 25 | Intersection of Two Arrays II | Easy | Hash Map / Frequency Counting | [Python](hash_map/intersection_of_two_arrays_ii.py) |
 | 26 | Happy Number | Easy | Hash Set / Cycle Detection | [Python](hash_map/happy_number.py) |
 | 27 | Ransom Note | Easy | Hash Map / Frequency Counting | [Python](hash_map/ransom_note.py) |
+| 28 | Isomorphic Strings | Easy | Hash Map / String Mapping | [Python](strings/isomorphic_strings.py) |
 ---
 
 ## Upcoming milestones:
