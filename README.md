@@ -136,7 +136,7 @@ The focus is on understanding algorithmic patterns rather than memorizing indivi
 
 ## Profiles
 
-- **GitHub:** https://github.com/Mehedi032003
+- **GitHub:** https://github.com/Codebaba007
 - **LeetCode:** https://leetcode.com/u/Mehedi_Core_G/
 
 ---
