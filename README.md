@@ -4,16 +4,7 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
-## Progress
 
-| Metric | Value |
-|--------|------:|
-| Total Problems Solved | **30** |
-| Easy | **25** |
-| Medium | **5** |
-| Hard | **0** |
-| Current Streak | **30 Days** |
-| Current Focus | **Strings / Hash Maps** |
 
 ## Learning Roadmap
 
@@ -97,6 +88,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 28 | Isomorphic Strings | Easy | Hash Map / String Mapping | [Python](strings/isomorphic_strings.py) |
 | 29 | Word Pattern | Easy | Hash Map / String Mapping | [Python](strings/word_pattern.py) |
 | 30 | Longest Palindrome | Easy | Hash Map / Frequency Counting | [Python](strings/longest_palindrome.py) |
+| 31 | Reverse String | Easy | Two Pointers | [Python](two_pointers/reverse_string.py) |
 ---
 
 ## Upcoming milestones:
