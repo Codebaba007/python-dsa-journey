@@ -23,10 +23,22 @@ This repository documents my progress toward becoming a better problem solver by
 - [ ] Dynamic Programming
 - [ ] Greedy
 - [ ] Backtracking
-
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
 
 ---
+## Progress
+
+| Metric | Value |
+|--------|------:|
+| Total Problems Solved | **32** |
+| Easy | **26** |
+| Medium | **6** |
+| Hard | **0** |
+| Current Streak | **32 Days** |
+| Current Focus | **Two Pointers** |
+
+---
+
 ## Patterns Learned
 
 - Hash Map
@@ -52,7 +64,6 @@ This section will continue to grow as I learn new algorithmic patterns.
 
 ---
 
-## Solved Problems
 
 ## Solved Problems
 
@@ -89,6 +100,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 29 | Word Pattern | Easy | Hash Map / String Mapping | [Python](strings/word_pattern.py) |
 | 30 | Longest Palindrome | Easy | Hash Map / Frequency Counting | [Python](strings/longest_palindrome.py) |
 | 31 | Reverse String | Easy | Two Pointers | [Python](two_pointers/reverse_string.py) |
+| 32 | Two Sum II: Input Array Is Sorted | Medium | Two Pointers | [Python](two_pointers/two_sum_ii.py) |
 ---
 
 ## Upcoming milestones:
