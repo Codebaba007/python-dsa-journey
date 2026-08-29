@@ -30,13 +30,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **32** |
-| Easy | **26** |
+| Total Problems Solved | **33** |
+| Easy | **27** |
 | Medium | **6** |
 | Hard | **0** |
-| Current Streak | **32 Days** |
+| Current Streak | **33 Days** |
 | Current Focus | **Two Pointers** |
-
 ---
 
 ## Patterns Learned
@@ -101,6 +100,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 30 | Longest Palindrome | Easy | Hash Map / Frequency Counting | [Python](strings/longest_palindrome.py) |
 | 31 | Reverse String | Easy | Two Pointers | [Python](two_pointers/reverse_string.py) |
 | 32 | Two Sum II: Input Array Is Sorted | Medium | Two Pointers | [Python](two_pointers/two_sum_ii.py) |
+| 33 | Valid Palindrome II | Easy | Two Pointers | [Python](two_pointers/valid_palindrome_ii.py) |
 ---
 
 ## Upcoming milestones:
