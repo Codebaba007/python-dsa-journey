@@ -30,13 +30,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **33** |
+| Total Problems Solved | **34** |
 | Easy | **27** |
-| Medium | **6** |
+| Medium | **7** |
 | Hard | **0** |
-| Current Streak | **33 Days** |
-| Current Focus | **Two Pointers** |
----
+| Current Streak | **34 Days** |
+| Current Focus | **Stack** |
 
 ## Patterns Learned
 
@@ -101,6 +100,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 31 | Reverse String | Easy | Two Pointers | [Python](two_pointers/reverse_string.py) |
 | 32 | Two Sum II: Input Array Is Sorted | Medium | Two Pointers | [Python](two_pointers/two_sum_ii.py) |
 | 33 | Valid Palindrome II | Easy | Two Pointers | [Python](two_pointers/valid_palindrome_ii.py) |
+| 34 | Min Stack | Medium | Stack / Auxiliary Stack | [Python](stack/min_stack.py) |
 ---
 
 ## Upcoming milestones:
