@@ -24,18 +24,17 @@ This repository documents my progress toward becoming a better problem solver by
 - [ ] Greedy
 - [ ] Backtracking
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
-
 ---
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **34** |
-| Easy | **27** |
+| Total Problems Solved | **35** |
+| Easy | **28** |
 | Medium | **7** |
 | Hard | **0** |
-| Current Streak | **34 Days** |
-| Current Focus | **Stack** |
+| Current Streak | **35 Days** |
+| Current Focus | **Queue / Data Structure Design** |
 
 ## Patterns Learned
 
@@ -57,6 +56,8 @@ This repository documents my progress toward becoming a better problem solver by
 - Stack
 - Hash Set / Cycle Detection
 - String Mapping
+- Queue / Data Structure Design
+
 
 This section will continue to grow as I learn new algorithmic patterns.
 
@@ -101,6 +102,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 32 | Two Sum II: Input Array Is Sorted | Medium | Two Pointers | [Python](two_pointers/two_sum_ii.py) |
 | 33 | Valid Palindrome II | Easy | Two Pointers | [Python](two_pointers/valid_palindrome_ii.py) |
 | 34 | Min Stack | Medium | Stack / Auxiliary Stack | [Python](stack/min_stack.py) |
+| 35 | Implement Stack using Queues | Easy | Queue / Data Structure Design | [Python](queue/my_stack.py) |
 ---
 
 ## Upcoming milestones:
