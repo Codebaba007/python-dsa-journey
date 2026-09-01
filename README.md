@@ -29,13 +29,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **35** |
-| Easy | **28** |
+| Total Problems Solved | **36** |
+| Easy | **29** |
 | Medium | **7** |
 | Hard | **0** |
-| Current Streak | **35 Days** |
-| Current Focus | **Queue / Data Structure Design** |
-
+| Current Streak | **36 Days** |
+| Current Focus | **Linked List** |
 ## Patterns Learned
 
 - Hash Map
@@ -103,6 +102,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 33 | Valid Palindrome II | Easy | Two Pointers | [Python](two_pointers/valid_palindrome_ii.py) |
 | 34 | Min Stack | Medium | Stack / Auxiliary Stack | [Python](stack/min_stack.py) |
 | 35 | Implement Stack using Queues | Easy | Queue / Data Structure Design | [Python](queue/my_stack.py) |
+| 36 | Reverse Linked List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/reverse_linked_list.py) |
 ---
 
 ## Upcoming milestones:
