@@ -24,17 +24,18 @@ This repository documents my progress toward becoming a better problem solver by
 - [ ] Greedy
 - [ ] Backtracking
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
----
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **36** |
-| Easy | **29** |
+| Total Problems Solved | **37** |
+| Easy | **30** |
 | Medium | **7** |
 | Hard | **0** |
-| Current Streak | **36 Days** |
-| Current Focus | **Linked List** |
+| Current Streak | **37 Days** |
+| Current Focus | **Sliding Window** |
+
+---
 ## Patterns Learned
 
 - Hash Map
@@ -56,6 +57,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Hash Set / Cycle Detection
 - String Mapping
 - Queue / Data Structure Design
+- Sliding Window 
 
 
 This section will continue to grow as I learn new algorithmic patterns.
@@ -103,6 +105,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 34 | Min Stack | Medium | Stack / Auxiliary Stack | [Python](stack/min_stack.py) |
 | 35 | Implement Stack using Queues | Easy | Queue / Data Structure Design | [Python](queue/my_stack.py) |
 | 36 | Reverse Linked List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/reverse_linked_list.py) |
+| 37 | Contains Duplicate II | Easy | Sliding Window / Hash Set | [Python](sliding_window/contains_nearby_duplicate.py) |
 ---
 
 ## Upcoming milestones:
