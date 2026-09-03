@@ -24,17 +24,17 @@ This repository documents my progress toward becoming a better problem solver by
 - [ ] Greedy
 - [ ] Backtracking
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
+---
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **37** |
+| Total Problems Solved | **38** |
 | Easy | **30** |
-| Medium | **7** |
+| Medium | **8** |
 | Hard | **0** |
-| Current Streak | **37 Days** |
-| Current Focus | **Sliding Window** |
-
+| Current Streak | **38 Days** |
+| Current Focus | **Hash Set** |
 ---
 ## Patterns Learned
 
@@ -106,6 +106,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 35 | Implement Stack using Queues | Easy | Queue / Data Structure Design | [Python](queue/my_stack.py) |
 | 36 | Reverse Linked List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/reverse_linked_list.py) |
 | 37 | Contains Duplicate II | Easy | Sliding Window / Hash Set | [Python](sliding_window/contains_nearby_duplicate.py) |
+| 38 | Longest Consecutive Sequence | Medium | Hash Set | [Python](hash_map/longest_consecutive_sequence.py) |
 ---
 
 ## Upcoming milestones:
