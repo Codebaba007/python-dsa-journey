@@ -29,12 +29,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **38** |
-| Easy | **30** |
+| Total Problems Solved | **39** |
+| Easy | **31** |
 | Medium | **8** |
 | Hard | **0** |
-| Current Streak | **38 Days** |
-| Current Focus | **Hash Set** |
+| Current Streak | **39 Days** |
+| Current Focus | **Trees / Recursion** |
 ---
 ## Patterns Learned
 
@@ -58,6 +58,7 @@ This repository documents my progress toward becoming a better problem solver by
 - String Mapping
 - Queue / Data Structure Design
 - Sliding Window 
+- Binary Tree / Recursion
 
 
 This section will continue to grow as I learn new algorithmic patterns.
@@ -107,6 +108,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 36 | Reverse Linked List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/reverse_linked_list.py) |
 | 37 | Contains Duplicate II | Easy | Sliding Window / Hash Set | [Python](sliding_window/contains_nearby_duplicate.py) |
 | 38 | Longest Consecutive Sequence | Medium | Hash Set | [Python](hash_map/longest_consecutive_sequence.py) |
+| 39 | Maximum Depth of Binary Tree | Easy | Binary Tree / Recursion | [Python](trees/maximum_depth_of_binary_tree.py) |
 ---
 
 ## Upcoming milestones:
