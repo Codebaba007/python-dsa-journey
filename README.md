@@ -29,12 +29,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **39** |
+| Total Problems Solved | **40** |
 | Easy | **31** |
-| Medium | **8** |
+| Medium | **9** |
 | Hard | **0** |
-| Current Streak | **39 Days** |
-| Current Focus | **Trees / Recursion** |
+| Current Streak | **40 Days** |
+| Current Focus | **Binary Search** |
 ---
 ## Patterns Learned
 
@@ -109,6 +109,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 37 | Contains Duplicate II | Easy | Sliding Window / Hash Set | [Python](sliding_window/contains_nearby_duplicate.py) |
 | 38 | Longest Consecutive Sequence | Medium | Hash Set | [Python](hash_map/longest_consecutive_sequence.py) |
 | 39 | Maximum Depth of Binary Tree | Easy | Binary Tree / Recursion | [Python](trees/maximum_depth_of_binary_tree.py) |
+| 40 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [Python](binary_search/find_minimum_in_rotated_sorted_array.py) |
 ---
 
 ## Upcoming milestones:
