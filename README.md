@@ -4,25 +4,6 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
-
-
-## Learning Roadmap
-
-- [ ] Arrays
-- [ ] Strings
-- [ ] Hash Maps
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
-- [ ] Queue
-- [ ] Linked List
-- [ ] Binary Search
-- [ ] Trees
-- [ ] Heap
-- [ ] Graphs
-- [ ] Dynamic Programming
-- [ ] Greedy
-- [ ] Backtracking
 > A topic is marked complete only after mastering its core concepts and representative interview problems.
 ---
 ## Progress
