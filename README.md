@@ -4,7 +4,6 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
-> A topic is marked complete only after mastering its core concepts and representative interview problems.
 ---
 ## Progress
 
