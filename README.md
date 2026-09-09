@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **43** |
-| Easy | **32** |
+| Total Problems Solved | **44** |
+| Easy | **33** |
 | Medium | **11** |
 | Hard | **0** |
-| Current Streak | **43 Days** |
-| Current Focus | **Linked List** |
+| Current Streak | **44 Days** |
+| Current Focus | **Stack** |
 ---
 ## Patterns Learned
 
@@ -93,6 +93,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 41 | Invert Binary Tree | Easy | Binary Tree / Recursion | [Python](trees/invert_binary_tree.py) |
 | 42 | Longest Substring Without Repeating Characters | Medium | Sliding Window / Hash Set | [Python](sliding_window/longest_substring_without_repeating_characters.py) |
 | 43 | Merge Two Sorted Lists | Easy | Linked List / Two Pointers | [Python](linked_list/merge_two_sorted_lists.py) |
+| 44 | Baseball Game | Easy | Stack | [Python](stack/baseball_game.py) |
 ---
 
 ## Upcoming milestones:
