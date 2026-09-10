@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **44** |
-| Easy | **33** |
+| Total Problems Solved | **45** |
+| Easy | **34** |
 | Medium | **11** |
 | Hard | **0** |
-| Current Streak | **44 Days** |
-| Current Focus | **Stack** |
+| Current Streak | **45 Days** |
+| Current Focus | **Arrays / Prefix Sum** |
 ---
 ## Patterns Learned
 
@@ -39,6 +39,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Queue / Data Structure Design
 - Sliding Window 
 - Binary Tree / Recursion
+- Prefix Sum
 
 
 This section will continue to grow as I learn new algorithmic patterns.
@@ -94,6 +95,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 42 | Longest Substring Without Repeating Characters | Medium | Sliding Window / Hash Set | [Python](sliding_window/longest_substring_without_repeating_characters.py) |
 | 43 | Merge Two Sorted Lists | Easy | Linked List / Two Pointers | [Python](linked_list/merge_two_sorted_lists.py) |
 | 44 | Baseball Game | Easy | Stack | [Python](stack/baseball_game.py) |
+| 45 | Find Pivot Index | Easy | Arrays / Prefix Sum | [Python](arrays/find_pivot_index.py) |
 ---
 
 ## Upcoming milestones:
