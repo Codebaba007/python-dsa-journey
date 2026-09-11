@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **45** |
-| Easy | **34** |
+| Total Problems Solved | **46** |
+| Easy | **35** |
 | Medium | **11** |
 | Hard | **0** |
-| Current Streak | **45 Days** |
-| Current Focus | **Arrays / Prefix Sum** |
+| Current Streak | **46 Days** |
+| Current Focus | **Queue / Sliding Window** |
 ---
 ## Patterns Learned
 
@@ -96,6 +96,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 43 | Merge Two Sorted Lists | Easy | Linked List / Two Pointers | [Python](linked_list/merge_two_sorted_lists.py) |
 | 44 | Baseball Game | Easy | Stack | [Python](stack/baseball_game.py) |
 | 45 | Find Pivot Index | Easy | Arrays / Prefix Sum | [Python](arrays/find_pivot_index.py) |
+| 46 | Number of Recent Calls | Easy | Queue / Sliding Window | [Python](queue/number_of_recent_calls.py) |
 ---
 
 ## Upcoming milestones:
