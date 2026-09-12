@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **46** |
+| Total Problems Solved | **47** |
 | Easy | **35** |
-| Medium | **11** |
+| Medium | **12** |
 | Hard | **0** |
-| Current Streak | **46 Days** |
-| Current Focus | **Queue / Sliding Window** |
+| Current Streak | **47 Days** |
+| Current Focus | **Hash Map / Sorting** |
 ---
 ## Patterns Learned
 
@@ -97,6 +97,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 44 | Baseball Game | Easy | Stack | [Python](stack/baseball_game.py) |
 | 45 | Find Pivot Index | Easy | Arrays / Prefix Sum | [Python](arrays/find_pivot_index.py) |
 | 46 | Number of Recent Calls | Easy | Queue / Sliding Window | [Python](queue/number_of_recent_calls.py) |
+| 47 | Group Anagrams | Medium | Hash Map / Sorting | [Python](hash_map/group_anagrams.py) |
 ---
 
 ## Upcoming milestones:
