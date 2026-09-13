@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **47** |
-| Easy | **35** |
+| Total Problems Solved | **48** |
+| Easy | **36** |
 | Medium | **12** |
 | Hard | **0** |
-| Current Streak | **47 Days** |
-| Current Focus | **Hash Map / Sorting** |
+| Current Streak | **48 Days** |
+| Current Focus | **Trees / Recursion** |
 ---
 ## Patterns Learned
 
@@ -98,6 +98,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 45 | Find Pivot Index | Easy | Arrays / Prefix Sum | [Python](arrays/find_pivot_index.py) |
 | 46 | Number of Recent Calls | Easy | Queue / Sliding Window | [Python](queue/number_of_recent_calls.py) |
 | 47 | Group Anagrams | Medium | Hash Map / Sorting | [Python](hash_map/group_anagrams.py) |
+| 48 | Same Tree | Easy | Binary Tree / Recursion | [Python](trees/same_tree.py) |
 ---
 
 ## Upcoming milestones:
