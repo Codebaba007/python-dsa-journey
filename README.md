@@ -9,13 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **48** |
+| Total Problems Solved | **49** |
 | Easy | **36** |
-| Medium | **12** |
+| Medium | **13** |
 | Hard | **0** |
-| Current Streak | **48 Days** |
-| Current Focus | **Trees / Recursion** |
----
+| Current Streak | **49 Days** |
+| Current Focus | **Hash Map / Data Structure Design** |
 ## Patterns Learned
 
 - Hash Map
@@ -99,6 +98,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 46 | Number of Recent Calls | Easy | Queue / Sliding Window | [Python](queue/number_of_recent_calls.py) |
 | 47 | Group Anagrams | Medium | Hash Map / Sorting | [Python](hash_map/group_anagrams.py) |
 | 48 | Same Tree | Easy | Binary Tree / Recursion | [Python](trees/same_tree.py) |
+| 49 | Insert Delete GetRandom O(1) | Medium | Hash Map / Array / Data Structure Design | [Python](hash_map/insert_delete_getrandom_o1.py) |
 ---
 
 ## Upcoming milestones:
