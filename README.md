@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **49** |
-| Easy | **36** |
+| Total Problems Solved | **50** |
+| Easy | **37** |
 | Medium | **13** |
 | Hard | **0** |
-| Current Streak | **49 Days** |
-| Current Focus | **Hash Map / Data Structure Design** |
+| Current Streak | **50 Days** |
+| Current Focus | **Linked List / Fast & Slow Pointers** |
 ## Patterns Learned
 
 - Hash Map
@@ -99,12 +99,14 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 47 | Group Anagrams | Medium | Hash Map / Sorting | [Python](hash_map/group_anagrams.py) |
 | 48 | Same Tree | Easy | Binary Tree / Recursion | [Python](trees/same_tree.py) |
 | 49 | Insert Delete GetRandom O(1) | Medium | Hash Map / Array / Data Structure Design | [Python](hash_map/insert_delete_getrandom_o1.py) |
+| 50 | Middle of the Linked List | Easy | Linked List / Fast & Slow Pointers | [Python](linked_list/middle_of_the_linked_list.py) |
+
 ---
 
 ## Upcoming milestones:
 
 - 25 problems solved(done)
-- 50 problems solved
+- 50 problems solved(done)
 - 100 problems solved
 
 ---
