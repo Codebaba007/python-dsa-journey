@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **51** |
-| Easy | **38** |
+| Total Problems Solved | **52** |
+| Easy | **39** |
 | Medium | **13** |
 | Hard | **0** |
-| Current Streak | **51 Days** |
-| Current Focus | **Graphs / DFS** |
+| Current Streak | **52 Days** |
+| Current Focus | **Heap / Min Heap** |
 ## Patterns Learned
 
 - Hash Map
@@ -101,6 +101,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 49 | Insert Delete GetRandom O(1) | Medium | Hash Map / Array / Data Structure Design | [Python](hash_map/insert_delete_getrandom_o1.py) |
 | 50 | Middle of the Linked List | Easy | Linked List / Fast & Slow Pointers | [Python](linked_list/middle_of_the_linked_list.py) |
 | 51 | Flood Fill | Easy | Graph / DFS / Matrix Traversal | [Python](graphs/flood_fill.py) |
+| 52 | Kth Largest Element in a Stream | Easy | Heap / Min Heap | [Python](heap/kth_largest_element_in_a_stream.py) |
 ---
 
 ## Upcoming milestones:
