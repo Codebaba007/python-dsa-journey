@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **53** |
-| Easy | **40** |
+| Total Problems Solved | **54** |
+| Easy | **41** |
 | Medium | **13** |
 | Hard | **0** |
-| Current Streak | **53 Days** |
-| Current Focus | **Dynamic Programming** |
+| Current Streak | **54 Days** |
+| Current Focus | **Greedy** |
 ## Patterns Learned
 
 - Hash Map
@@ -103,6 +103,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 51 | Flood Fill | Easy | Graph / DFS / Matrix Traversal | [Python](graphs/flood_fill.py) |
 | 52 | Kth Largest Element in a Stream | Easy | Heap / Min Heap | [Python](heap/kth_largest_element_in_a_stream.py) |
 | 53 | Climbing Stairs | Easy | Dynamic Programming | [Python](dynamic_programming/climbing_stairs.py) |
+| 54 | Assign Cookies | Easy | Greedy / Sorting | [Python](greedy/assign_cookies.py) |
 ---
 
 ## Upcoming milestones:
