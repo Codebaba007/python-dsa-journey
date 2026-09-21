@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **55** |
-| Easy | **42** |
+| Total Problems Solved | **56** |
+| Easy | **43** |
 | Medium | **13** |
 | Hard | **0** |
-| Current Streak | **55 Days** |
-| Current Focus | **Hash Set** |
+| Current Streak | **56 Days** |
+| Current Focus | **Binary Search / Boundary Search** |
 ## Patterns Learned
 
 - Hash Map
@@ -105,6 +105,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 53 | Climbing Stairs | Easy | Dynamic Programming | [Python](dynamic_programming/climbing_stairs.py) |
 | 54 | Assign Cookies | Easy | Greedy / Sorting | [Python](greedy/assign_cookies.py) |
 | 55 | Intersection of Two Arrays | Easy | Hash Set | [Python](hash_map/intersection_of_two_arrays.py) |
+| 56 | Sqrt(x) | Easy | Binary Search / Boundary Search | [Python](binary_search/sqrt_x.py) |
 ---
 
 ## Upcoming milestones:
