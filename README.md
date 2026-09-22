@@ -7,14 +7,16 @@ This repository documents my progress toward becoming a better problem solver by
 ---
 ## Progress
 
+## Progress
+
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **56** |
-| Easy | **43** |
+| Total Problems Solved | **57** |
+| Easy | **44** |
 | Medium | **13** |
 | Hard | **0** |
-| Current Streak | **56 Days** |
-| Current Focus | **Binary Search / Boundary Search** |
+| Current Streak | **57 Days** |
+| Current Focus | **Graphs / Degree** |
 ## Patterns Learned
 
 - Hash Map
@@ -106,6 +108,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 54 | Assign Cookies | Easy | Greedy / Sorting | [Python](greedy/assign_cookies.py) |
 | 55 | Intersection of Two Arrays | Easy | Hash Set | [Python](hash_map/intersection_of_two_arrays.py) |
 | 56 | Sqrt(x) | Easy | Binary Search / Boundary Search | [Python](binary_search/sqrt_x.py) |
+| 57 | Find Center of Star Graph | Easy | Graph / Degree | [Python](graphs/find_center_of_star_graph.py) |
 ---
 
 ## Upcoming milestones:
