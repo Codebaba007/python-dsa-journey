@@ -7,16 +7,15 @@ This repository documents my progress toward becoming a better problem solver by
 ---
 ## Progress
 
-## Progress
-
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **57** |
+| Total Problems Solved | **58** |
 | Easy | **44** |
-| Medium | **13** |
+| Medium | **14** |
 | Hard | **0** |
-| Current Streak | **57 Days** |
-| Current Focus | **Graphs / Degree** |
+| Current Streak | **58 Days** |
+| Current Focus | **Backtracking** |
+
 ## Patterns Learned
 
 - Hash Map
@@ -109,6 +108,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 55 | Intersection of Two Arrays | Easy | Hash Set | [Python](hash_map/intersection_of_two_arrays.py) |
 | 56 | Sqrt(x) | Easy | Binary Search / Boundary Search | [Python](binary_search/sqrt_x.py) |
 | 57 | Find Center of Star Graph | Easy | Graph / Degree | [Python](graphs/find_center_of_star_graph.py) |
+| 58 | Subsets | Medium | Backtracking | [Python](backtracking/subsets.py) |
 ---
 
 ## Upcoming milestones:
