@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **59** |
-| Easy | **44** |
+| Total Problems Solved | **60** |
+| Easy | **45** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **59 Days** |
-| Current Focus | **Monotonic Stack** |
+| Current Streak | **60 Days** |
+| Current Focus | **Dynamic Programming** |
 
 ## Patterns Learned
 
@@ -110,6 +110,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 57 | Find Center of Star Graph | Easy | Graph / Degree | [Python](graphs/find_center_of_star_graph.py) |
 | 58 | Subsets | Medium | Backtracking | [Python](backtracking/subsets.py) |
 | 59 | Daily Temperatures | Medium | Monotonic Stack | [Python](stack/daily_temperatures.py) |
+| 60 | Min Cost Climbing Stairs | Easy | Dynamic Programming | [Python](dynamic_programming/min_cost_climbing_stairs.py) |
 ---
 
 ## Upcoming milestones:
