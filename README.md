@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **60** |
-| Easy | **45** |
+| Total Problems Solved | **61** |
+| Easy | **46** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **60 Days** |
-| Current Focus | **Dynamic Programming** |
+| Current Streak | **61 Days** |
+| Current Focus | **Greedy** |
 
 ## Patterns Learned
 
@@ -111,6 +111,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 58 | Subsets | Medium | Backtracking | [Python](backtracking/subsets.py) |
 | 59 | Daily Temperatures | Medium | Monotonic Stack | [Python](stack/daily_temperatures.py) |
 | 60 | Min Cost Climbing Stairs | Easy | Dynamic Programming | [Python](dynamic_programming/min_cost_climbing_stairs.py) |
+| 61 | Lemonade Change | Easy | Greedy | [Python](greedy/lemonade_change.py) |
 ---
 
 ## Upcoming milestones:
