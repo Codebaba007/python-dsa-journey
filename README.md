@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **61** |
-| Easy | **46** |
+| Total Problems Solved | **62** |
+| Easy | **47** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **61 Days** |
-| Current Focus | **Greedy** |
+| Current Streak | **62 Days** |
+| Current Focus | **Arrays** |
 
 ## Patterns Learned
 
@@ -112,6 +112,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 59 | Daily Temperatures | Medium | Monotonic Stack | [Python](stack/daily_temperatures.py) |
 | 60 | Min Cost Climbing Stairs | Easy | Dynamic Programming | [Python](dynamic_programming/min_cost_climbing_stairs.py) |
 | 61 | Lemonade Change | Easy | Greedy | [Python](greedy/lemonade_change.py) |
+| 62 | Find All Numbers Disappeared in an Array | Easy | Arrays / Hash Set | [Python](arrays/find_all_numbers_disappeared_in_an_array.py) |
 ---
 
 ## Upcoming milestones:
