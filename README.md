@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **64** |
-| Easy | **49** |
+| Total Problems Solved | **65** |
+| Easy | **50** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **64 Days** |
-| Current Focus | **Linked List / Fast & Slow Pointers** |
+| Current Streak | **65 Days** |
+| Current Focus | **Binary Tree / DFS** |
 
 ## Patterns Learned
 
@@ -115,6 +115,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 62 | Find All Numbers Disappeared in an Array | Easy | Arrays / Hash Set | [Python](arrays/find_all_numbers_disappeared_in_an_array.py) |
 | 63 | Is Subsequence | Easy | Strings / Two Pointers | [Python](strings/is_subsequence.py) |
 | 64 | Linked List Cycle | Easy | Linked List / Fast & Slow Pointers | [Python](linked_list/linked_list_cycle.py) |
+| 65 | Path Sum | Easy | Binary Tree / DFS | [Python](trees/path_sum.py) |
 ---
 
 ## Upcoming milestones:
