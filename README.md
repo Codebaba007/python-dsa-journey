@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **65** |
-| Easy | **50** |
+| Total Problems Solved | **66** |
+| Easy | **51** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **65 Days** |
-| Current Focus | **Binary Tree / DFS** |
+| Current Streak | **66 Days** |
+| Current Focus | **Queue / Stack / Data Structure Design** |
 
 ## Patterns Learned
 
@@ -116,6 +116,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 63 | Is Subsequence | Easy | Strings / Two Pointers | [Python](strings/is_subsequence.py) |
 | 64 | Linked List Cycle | Easy | Linked List / Fast & Slow Pointers | [Python](linked_list/linked_list_cycle.py) |
 | 65 | Path Sum | Easy | Binary Tree / DFS | [Python](trees/path_sum.py) |
+| 66 | Implement Queue using Stacks | Easy | Queue / Stack / Data Structure Design | [Python](queue/my_queue.py) |
 ---
 
 ## Upcoming milestones:
