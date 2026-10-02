@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **66** |
-| Easy | **51** |
+| Total Problems Solved | **67** |
+| Easy | **52** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **66 Days** |
-| Current Focus | **Queue / Stack / Data Structure Design** |
+| Current Streak | **67 Days** |
+| Current Focus | **Heap / Max Heap** |
 
 ## Patterns Learned
 
