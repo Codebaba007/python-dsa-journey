@@ -4,17 +4,16 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
----
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **67** |
-| Easy | **52** |
+| Total Problems Solved | **68** |
+| Easy | **53** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **67 Days** |
-| Current Focus | **Heap / Max Heap** |
+| Current Streak | **68 Days** |
+| Current Focus | **Bit Manipulation / XOR** |
 
 ## Patterns Learned
 
@@ -117,6 +116,8 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 64 | Linked List Cycle | Easy | Linked List / Fast & Slow Pointers | [Python](linked_list/linked_list_cycle.py) |
 | 65 | Path Sum | Easy | Binary Tree / DFS | [Python](trees/path_sum.py) |
 | 66 | Implement Queue using Stacks | Easy | Queue / Stack / Data Structure Design | [Python](queue/my_queue.py) |
+| 67 | Last Stone Weight | Easy | Heap / Max Heap | [Python](heap/last_stone_weight.py) |
+| 68 | Single Number | Easy | Bit Manipulation / XOR | [Python](arrays/single_number.py) |
 ---
 
 ## Upcoming milestones:
