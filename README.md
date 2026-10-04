@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **68** |
-| Easy | **53** |
+| Total Problems Solved | **69** |
+| Easy | **54** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **68 Days** |
-| Current Focus | **Bit Manipulation / XOR** |
+| Current Streak | **69 Days** |
+| Current Focus | **Strings / Hash Map** |
 
 ## Patterns Learned
 
@@ -118,6 +118,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 66 | Implement Queue using Stacks | Easy | Queue / Stack / Data Structure Design | [Python](queue/my_queue.py) |
 | 67 | Last Stone Weight | Easy | Heap / Max Heap | [Python](heap/last_stone_weight.py) |
 | 68 | Single Number | Easy | Bit Manipulation / XOR | [Python](arrays/single_number.py) |
+| 69 | Roman to Integer | Easy | Strings / Hash Map | [Python](strings/roman_to_integer.py) |
 ---
 
 ## Upcoming milestones:
