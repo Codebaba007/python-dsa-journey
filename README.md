@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **70** |
-| Easy | **55** |
+| Total Problems Solved | **71** |
+| Easy | **56** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **70 Days** |
-| Current Focus | **Math / Number Manipulation** |
+| Current Streak | **71 Days** |
+| Current Focus | **Graph / Matrix Traversal** |
 
 ## Patterns Learned
 
@@ -119,6 +119,8 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 67 | Last Stone Weight | Easy | Heap / Max Heap | [Python](heap/last_stone_weight.py) |
 | 68 | Single Number | Easy | Bit Manipulation / XOR | [Python](arrays/single_number.py) |
 | 69 | Roman to Integer | Easy | Strings / Hash Map | [Python](strings/roman_to_integer.py) |
+| 70 | Palindrome Number | Easy | Math / Number Manipulation | [Python](arrays/palindrome_number.py) |
+| 71 | Island Perimeter | Easy | Graph / Matrix Traversal | [Python](graphs/island_perimeter.py) |
 ---
 
 ## Upcoming milestones:
