@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **71** |
-| Easy | **56** |
+| Total Problems Solved | **72** |
+| Easy | **57** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **71 Days** |
-| Current Focus | **Graph / Matrix Traversal** |
+| Current Streak | **72 Days** |
+| Current Focus | **Strings / Bit Manipulation** |
 
 ## Patterns Learned
 
@@ -121,6 +121,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 69 | Roman to Integer | Easy | Strings / Hash Map | [Python](strings/roman_to_integer.py) |
 | 70 | Palindrome Number | Easy | Math / Number Manipulation | [Python](arrays/palindrome_number.py) |
 | 71 | Island Perimeter | Easy | Graph / Matrix Traversal | [Python](graphs/island_perimeter.py) |
+| 72 | Add Binary | Easy | Strings / Bit Manipulation | [Python](strings/add_binary.py) |
 ---
 
 ## Upcoming milestones:
