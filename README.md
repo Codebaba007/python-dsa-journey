@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **73** |
-| Easy | **58** |
+| Total Problems Solved | **74** |
+| Easy | **59** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **73 Days** |
-| Current Focus | **Stack / Strings** |
+| Current Streak | **74 Days** |
+| Current Focus | **Math / Strings** |
 
 ## Patterns Learned
 
@@ -123,6 +123,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 71 | Island Perimeter | Easy | Graph / Matrix Traversal | [Python](graphs/island_perimeter.py) |
 | 72 | Add Binary | Easy | Strings / Bit Manipulation | [Python](strings/add_binary.py) |
 | 73 | Remove All Adjacent Duplicates In String | Easy | Stack / Strings | [Python](stack/remove_all_adjacent_duplicates_in_string.py) |
+| 74 | Excel Sheet Column Number | Easy | Math / Strings | [Python](strings/excel_sheet_column_number.py) |
 ---
 
 ## Upcoming milestones:
