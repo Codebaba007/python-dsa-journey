@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **74** |
-| Easy | **59** |
+| Total Problems Solved | **75** |
+| Easy | **60** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **74 Days** |
-| Current Focus | **Math / Strings** |
+| Current Streak | **75 Days** |
+| Current Focus | **Arrays / Dynamic Programming** |
 
 ## Patterns Learned
 
@@ -124,6 +124,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 72 | Add Binary | Easy | Strings / Bit Manipulation | [Python](strings/add_binary.py) |
 | 73 | Remove All Adjacent Duplicates In String | Easy | Stack / Strings | [Python](stack/remove_all_adjacent_duplicates_in_string.py) |
 | 74 | Excel Sheet Column Number | Easy | Math / Strings | [Python](strings/excel_sheet_column_number.py) |
+| 75 | Pascal's Triangle | Easy | Arrays / Dynamic Programming | [Python](arrays/pascals_triangle.py) |
 ---
 
 ## Upcoming milestones:
