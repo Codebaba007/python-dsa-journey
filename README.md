@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **75** |
-| Easy | **60** |
+| Total Problems Solved | **76** |
+| Easy | **61** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **75 Days** |
-| Current Focus | **Arrays / Dynamic Programming** |
+| Current Streak | **76 Days** |
+| Current Focus | **Linked List / Pointer Manipulation** |
 
 ## Patterns Learned
 
@@ -125,6 +125,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 73 | Remove All Adjacent Duplicates In String | Easy | Stack / Strings | [Python](stack/remove_all_adjacent_duplicates_in_string.py) |
 | 74 | Excel Sheet Column Number | Easy | Math / Strings | [Python](strings/excel_sheet_column_number.py) |
 | 75 | Pascal's Triangle | Easy | Arrays / Dynamic Programming | [Python](arrays/pascals_triangle.py) |
+| 76 | Remove Duplicates from Sorted List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_duplicates_from_sorted_list.py) |
 ---
 
 ## Upcoming milestones:
