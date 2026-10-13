@@ -12,8 +12,8 @@ This repository documents my progress toward becoming a better problem solver by
 | Easy | **61** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **76 Days** |
-| Current Focus | **Linked List / Pointer Manipulation** |
+| Current Streak | **77 Days** |
+| Current Focus | **Strings / Two Pointers** |
 
 ## Patterns Learned
 
@@ -126,6 +126,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 74 | Excel Sheet Column Number | Easy | Math / Strings | [Python](strings/excel_sheet_column_number.py) |
 | 75 | Pascal's Triangle | Easy | Arrays / Dynamic Programming | [Python](arrays/pascals_triangle.py) |
 | 76 | Remove Duplicates from Sorted List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_duplicates_from_sorted_list.py) |
+| 77 | Backspace String Compare | Easy | Strings / Two Pointers | [Python](two_pointers/backspace_string_compare.py) |
 ---
 
 ## Upcoming milestones:
