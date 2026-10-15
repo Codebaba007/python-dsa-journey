@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **77** |
-| Easy | **62** |
+| Total Problems Solved | **78** |
+| Easy | **63** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **78 Days** |
-| Current Focus | **Arrays / Consecutive Sequences** |
+| Current Streak | **79 Days** |
+| Current Focus | **Binary Tree / DFS** |
 
 ## Patterns Learned
 
@@ -128,9 +128,10 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 76 | Remove Duplicates from Sorted List | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_duplicates_from_sorted_list.py) |
 | 77 | Backspace String Compare | Easy | Strings / Two Pointers | [Python](two_pointers/backspace_string_compare.py) |
 | 78 | Summary Ranges | Easy | Arrays / Consecutive Sequences | [Python](arrays/summary_ranges.py) |
+| 79 | Sum of Left Leaves | Easy | Binary Tree / DFS | [Python](trees/sum_of_left_leaves.py) |
 ---
 
-## Upcoming milestones:
+## milestones:
 
 - 25 problems solved(done)
 - 50 problems solved(done)
