@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **78** |
-| Easy | **63** |
+| Total Problems Solved | **79** |
+| Easy | **64** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **79 Days** |
-| Current Focus | **Binary Tree / DFS** |
+| Current Streak | **80 Days** |
+| Current Focus | **Greedy / Arrays** |
 
 ## Patterns Learned
 
@@ -129,6 +129,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 77 | Backspace String Compare | Easy | Strings / Two Pointers | [Python](two_pointers/backspace_string_compare.py) |
 | 78 | Summary Ranges | Easy | Arrays / Consecutive Sequences | [Python](arrays/summary_ranges.py) |
 | 79 | Sum of Left Leaves | Easy | Binary Tree / DFS | [Python](trees/sum_of_left_leaves.py) |
+| 80 | Can Place Flowers | Easy | Greedy / Arrays | [Python](greedy/can_place_flowers.py) |
 ---
 
 ## milestones:
