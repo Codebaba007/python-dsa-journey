@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **80** |
-| Easy | **65** |
+| Total Problems Solved | **81** |
+| Easy | **66** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **81 Days** |
-| Current Focus | **Strings / Hash Map** |
+| Current Streak | **82 Days** |
+| Current Focus | **Binary Tree / BFS / Queue** |
 
 ## Patterns Learned
 
@@ -131,6 +131,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 79 | Sum of Left Leaves | Easy | Binary Tree / DFS | [Python](trees/sum_of_left_leaves.py) |
 | 80 | Can Place Flowers | Easy | Greedy / Arrays | [Python](greedy/can_place_flowers.py) |
 | 81 | Find the Difference | Easy | Strings / Hash Map | [Python](strings/find_the_difference.py) |
+| 82 | Average of Levels in Binary Tree | Easy | Binary Tree / BFS / Queue | [Python](trees/average_of_levels_in_binary_tree.py) |
 ---
 
 ## milestones:
