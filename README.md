@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **82** |
-| Easy | **67** |
+| Total Problems Solved | **83** |
+| Easy | **68** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **83 Days** |
-| Current Focus | **Hash Map / Hash Set** |
+| Current Streak | **84 Days** |
+| Current Focus | **Queue / Simulation** |
 
 ## Patterns Learned
 
@@ -133,6 +133,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 81 | Find the Difference | Easy | Strings / Hash Map | [Python](strings/find_the_difference.py) |
 | 82 | Average of Levels in Binary Tree | Easy | Binary Tree / BFS / Queue | [Python](trees/average_of_levels_in_binary_tree.py) |
 | 83 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | [Python](hash_map/unique_number_of_occurrences.py) |
+| 84 | Number of Students Unable to Eat Lunch | Easy | Queue / Simulation | [Python](queue/number_of_students_unable_to_eat_lunch.py) |
 ---
 
 ## milestones:
