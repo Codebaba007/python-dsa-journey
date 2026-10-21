@@ -4,16 +4,17 @@ A structured record of my journey learning **Data Structures and Algorithms (DSA
 
 This repository documents my progress toward becoming a better problem solver by consistently practicing algorithmic thinking, writing clean code, and mastering common interview patterns.
 
+
 ## Progress
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **83** |
-| Easy | **68** |
+| Total Problems Solved | **84** |
+| Easy | **69** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **84 Days** |
-| Current Focus | **Queue / Simulation** |
+| Current Streak | **85 Days** |
+| Current Focus | **Bit Manipulation / Binary** |
 
 ## Patterns Learned
 
@@ -39,6 +40,7 @@ This repository documents my progress toward becoming a better problem solver by
 - Sliding Window 
 - Binary Tree / Recursion
 - Prefix Sum
+- Bit Manipulation / Binary
 
 
 This section will continue to grow as I learn new algorithmic patterns.
@@ -134,6 +136,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 82 | Average of Levels in Binary Tree | Easy | Binary Tree / BFS / Queue | [Python](trees/average_of_levels_in_binary_tree.py) |
 | 83 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | [Python](hash_map/unique_number_of_occurrences.py) |
 | 84 | Number of Students Unable to Eat Lunch | Easy | Queue / Simulation | [Python](queue/number_of_students_unable_to_eat_lunch.py) |
+| 85 | Number of 1 Bits | Easy | Bit Manipulation / Binary | [Python](bit_manipulation/number_of_1_bits.py) |
 ---
 
 ## milestones:
