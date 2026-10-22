@@ -9,12 +9,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **84** |
-| Easy | **69** |
+| Total Problems Solved | **85** |
+| Easy | **70** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **85 Days** |
-| Current Focus | **Bit Manipulation / Binary** |
+| Current Streak | **86 Days** |
+| Current Focus | **Arrays / Set / Sorting** |
 
 ## Patterns Learned
 
@@ -137,6 +137,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 83 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | [Python](hash_map/unique_number_of_occurrences.py) |
 | 84 | Number of Students Unable to Eat Lunch | Easy | Queue / Simulation | [Python](queue/number_of_students_unable_to_eat_lunch.py) |
 | 85 | Number of 1 Bits | Easy | Bit Manipulation / Binary | [Python](bit_manipulation/number_of_1_bits.py) |
+| 86 | Third Maximum Number | Easy | Arrays / Set / Sorting | [Python](arrays/third_maximum_number.py) |
 ---
 
 ## milestones:
