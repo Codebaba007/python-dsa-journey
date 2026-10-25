@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **88** |
-| Easy | **73** |
+| Total Problems Solved | **89** |
+| Easy | **74** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **88 Days** |
-| Current Focus | **Arrays / Counting** |
+| Current Streak | **89 Days** |
+| Current Focus | **Linked List / Pointer Manipulation** |
 
 ## Patterns Learned
 
@@ -139,6 +139,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 86 | Third Maximum Number | Easy | Arrays / Set / Sorting | [Python](arrays/third_maximum_number.py) |
 | 87 | Detect Capital | Easy | Strings / Character Checking | [Python](strings/detect_capital.py) |
 | 88 | Max Consecutive Ones | Easy | Arrays / Counting | [Python](arrays/max_consecutive_ones.py) |
+| 89 | Remove Linked List Elements | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_linked_list_elements.py) |
 ---
 
 ## milestones:
