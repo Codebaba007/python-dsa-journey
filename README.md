@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **89** |
-| Easy | **74** |
+| Total Problems Solved | **90** |
+| Easy | **75** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **89 Days** |
-| Current Focus | **Linked List / Pointer Manipulation** |
+| Current Streak | **90 Days** |
+| Current Focus | **Binary Tree / DFS / Recursion** |
 
 ## Patterns Learned
 
@@ -140,6 +140,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 87 | Detect Capital | Easy | Strings / Character Checking | [Python](strings/detect_capital.py) |
 | 88 | Max Consecutive Ones | Easy | Arrays / Counting | [Python](arrays/max_consecutive_ones.py) |
 | 89 | Remove Linked List Elements | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_linked_list_elements.py) |
+| 90 | Diameter of Binary Tree | Easy | Binary Tree / DFS / Recursion | [Python](trees/diameter_of_binary_tree.py) |
 ---
 
 ## milestones:
