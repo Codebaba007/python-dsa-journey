@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **90** |
-| Easy | **75** |
+| Total Problems Solved | **91** |
+| Easy | **76** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **90 Days** |
-| Current Focus | **Binary Tree / DFS / Recursion** |
+| Current Streak | **91 Days** |
+| Current Focus | **Strings / Two Pointers** |
 
 ## Patterns Learned
 
@@ -141,6 +141,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 88 | Max Consecutive Ones | Easy | Arrays / Counting | [Python](arrays/max_consecutive_ones.py) |
 | 89 | Remove Linked List Elements | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_linked_list_elements.py) |
 | 90 | Diameter of Binary Tree | Easy | Binary Tree / DFS / Recursion | [Python](trees/diameter_of_binary_tree.py) |
+| 91 | Reverse Vowels of a String | Easy | Strings / Two Pointers | [Python](two_pointers/reverse_vowels_of_a_string.py) |
 ---
 
 ## milestones:
