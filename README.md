@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **91** |
-| Easy | **76** |
+| Total Problems Solved | **92** |
+| Easy | **77** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **91 Days** |
-| Current Focus | **Strings / Two Pointers** |
+| Current Streak | **92 Days** |
+| Current Focus | **Stack / Hash Map / Monotonic Stack** |
 
 ## Patterns Learned
 
@@ -142,6 +142,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 89 | Remove Linked List Elements | Easy | Linked List / Pointer Manipulation | [Python](linked_list/remove_linked_list_elements.py) |
 | 90 | Diameter of Binary Tree | Easy | Binary Tree / DFS / Recursion | [Python](trees/diameter_of_binary_tree.py) |
 | 91 | Reverse Vowels of a String | Easy | Strings / Two Pointers | [Python](two_pointers/reverse_vowels_of_a_string.py) |
+| 92 | Next Greater Element I | Easy | Stack / Hash Map / Monotonic Stack | [Python](stack/next_greater_element_i.py) |
 ---
 
 ## milestones:
