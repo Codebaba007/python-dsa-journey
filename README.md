@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **92** |
-| Easy | **77** |
+| Total Problems Solved | **93** |
+| Easy | **78** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **92 Days** |
-| Current Focus | **Stack / Hash Map / Monotonic Stack** |
+| Current Streak | **93 Days** |
+| Current Focus | **Arrays / Hash Map / Frequency Counting** |
 
 ## Patterns Learned
 
@@ -143,6 +143,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 90 | Diameter of Binary Tree | Easy | Binary Tree / DFS / Recursion | [Python](trees/diameter_of_binary_tree.py) |
 | 91 | Reverse Vowels of a String | Easy | Strings / Two Pointers | [Python](two_pointers/reverse_vowels_of_a_string.py) |
 | 92 | Next Greater Element I | Easy | Stack / Hash Map / Monotonic Stack | [Python](stack/next_greater_element_i.py) |
+| 93 | Degree of an Array | Easy | Arrays / Hash Map / Frequency Counting | [Python](arrays/degree_of_an_array.py) |
 ---
 
 ## milestones:
