@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **93** |
-| Easy | **78** |
+| Total Problems Solved | **94** |
+| Easy | **79** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **93 Days** |
-| Current Focus | **Arrays / Hash Map / Frequency Counting** |
+| Current Streak | **94 Days** |
+| Current Focus | **Arrays / Matrix Manipulation** |
 
 ## Patterns Learned
 
@@ -144,6 +144,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 91 | Reverse Vowels of a String | Easy | Strings / Two Pointers | [Python](two_pointers/reverse_vowels_of_a_string.py) |
 | 92 | Next Greater Element I | Easy | Stack / Hash Map / Monotonic Stack | [Python](stack/next_greater_element_i.py) |
 | 93 | Degree of an Array | Easy | Arrays / Hash Map / Frequency Counting | [Python](arrays/degree_of_an_array.py) |
+| 94 | Transpose Matrix | Easy | Arrays / Matrix Manipulation | [Python](arrays/transpose_matrix.py) |
 ---
 
 ## milestones:
