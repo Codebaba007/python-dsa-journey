@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **97** |
-| Easy | **82** |
+| Total Problems Solved | **98** |
+| Easy | **83** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **97 Days** |
-| Current Focus | **Arrays / Prefix Sum** |
+| Current Streak | **98 Days** |
+| Current Focus | **Arrays / Two Pointers** |
 
 ## Patterns Learned
 
