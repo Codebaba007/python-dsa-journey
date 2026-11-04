@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **98** |
-| Easy | **83** |
+| Total Problems Solved | **99** |
+| Easy | **84** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **98 Days** |
-| Current Focus | **Arrays / Two Pointers** |
+| Current Streak | **99 Days** |
+| Current Focus | **Strings / Hash Set** |
 
 ## Patterns Learned
 
@@ -148,6 +148,8 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 95 | Sort Array By Parity | Easy | Arrays / Two Pointers | [Python](arrays/sort_array_by_parity.py) |
 | 96 | Add Digits | Easy | Math / Number Manipulation | [Python](math/add_digits.py) |
 | 97 | Range Sum Query - Immutable | Easy | Arrays / Prefix Sum | [Python](arrays/range_sum_query_immutable.py) |
+| 98 | Valid Mountain Array | Easy | Arrays / Two Pointers | [Python](arrays/valid_mountain_array.py) |
+| 99 | Jewels and Stones | Easy | Strings / Hash Set | [Python](strings/jewels_and_stones.py) |
 ---
 
 ## milestones:
