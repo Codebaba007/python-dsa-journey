@@ -157,7 +157,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 
 - 25 problems solved(done)
 - 50 problems solved(done)
-- 100 problems solved
+- 100 problems solved(done)
 
 ---
 
