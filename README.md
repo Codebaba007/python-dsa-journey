@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **102** |
-| Easy | **87** |
+| Total Problems Solved | **103** |
+| Easy | **88** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **102 Days** |
-| Current Focus | **Binary Tree / DFS / Recursion** |
+| Current Streak | **103 Days** |
+| Current Focus | **Strings / Two Pointers** |
 
 ## Patterns Learned
 
@@ -153,6 +153,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 100 | Squares of a Sorted Array | Easy | Arrays / Two Pointers | [Python](arrays/squares_of_a_sorted_array.py) |
 | 101 | Merge Strings Alternately | Easy | Strings / Two Pointers | [Python](strings/merge_strings_alternately.py) |
 | 102 | Merge Two Binary Trees | Easy | Binary Tree / DFS / Recursion | [Python](trees/merge_two_binary_trees.py) |
+| 103 | Reverse Words in a String III | Easy | Strings / Two Pointers | [Python](strings/reverse_words_in_a_string_iii.py) |
 ---
 
 ## milestones:
