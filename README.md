@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **103** |
-| Easy | **88** |
+| Total Problems Solved | **104** |
+| Easy | **89** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **103 Days** |
-| Current Focus | **Strings / Two Pointers** |
+| Current Streak | **104 Days** |
+| Current Focus | **Arrays / Greedy / Right-to-Left Traversal** |
 
 ## Patterns Learned
 
@@ -154,6 +154,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 101 | Merge Strings Alternately | Easy | Strings / Two Pointers | [Python](strings/merge_strings_alternately.py) |
 | 102 | Merge Two Binary Trees | Easy | Binary Tree / DFS / Recursion | [Python](trees/merge_two_binary_trees.py) |
 | 103 | Reverse Words in a String III | Easy | Strings / Two Pointers | [Python](strings/reverse_words_in_a_string_iii.py) |
+| 104 | Replace Elements with Greatest Element on Right Side | Easy | Arrays / Greedy / Right-to-Left Traversal | [Python](arrays/replace_elements_with_greatest_element_on_right_side.py) |
 ---
 
 ## milestones:
