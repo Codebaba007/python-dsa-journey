@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **105** |
-| Easy | **90** |
+| Total Problems Solved | **106** |
+| Easy | **91** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **105 Days** |
-| Current Focus | **Arrays / Matrix / Simulation** |
+| Current Streak | **106 Days** |
+| Current Focus | **Arrays / Sorting / Hash Map** |
 
 ## Patterns Learned
 
@@ -156,6 +156,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 103 | Reverse Words in a String III | Easy | Strings / Two Pointers | [Python](strings/reverse_words_in_a_string_iii.py) |
 | 104 | Replace Elements with Greatest Element on Right Side | Easy | Arrays / Greedy / Right-to-Left Traversal | [Python](arrays/replace_elements_with_greatest_element_on_right_side.py) |
 | 105 | Cells with Odd Values in a Matrix | Easy | Arrays / Matrix / Simulation | [Python](arrays/cells_with_odd_values_in_a_matrix.py) |
+| 106 | How Many Numbers Are Smaller Than the Current Number | Easy | Arrays / Sorting / Hash Map | [Python](arrays/how_many_numbers_are_smaller_than_current_number.py) |
 ---
 
 ## milestones:
