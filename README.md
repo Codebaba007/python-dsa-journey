@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **106** |
-| Easy | **91** |
+| Total Problems Solved | **107** |
+| Easy | **92** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **106 Days** |
-| Current Focus | **Arrays / Sorting / Hash Map** |
+| Current Streak | **107 Days** |
+| Current Focus | **Arrays / Matrix Manipulation** |
 
 ## Patterns Learned
 
@@ -157,6 +157,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 104 | Replace Elements with Greatest Element on Right Side | Easy | Arrays / Greedy / Right-to-Left Traversal | [Python](arrays/replace_elements_with_greatest_element_on_right_side.py) |
 | 105 | Cells with Odd Values in a Matrix | Easy | Arrays / Matrix / Simulation | [Python](arrays/cells_with_odd_values_in_a_matrix.py) |
 | 106 | How Many Numbers Are Smaller Than the Current Number | Easy | Arrays / Sorting / Hash Map | [Python](arrays/how_many_numbers_are_smaller_than_current_number.py) |
+| 107 | Reshape the Matrix | Easy | Arrays / Matrix Manipulation | [Python](arrays/reshape_the_matrix.py) |
 ---
 
 ## milestones:
