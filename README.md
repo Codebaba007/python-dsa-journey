@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **107** |
-| Easy | **92** |
+| Total Problems Solved | **108** |
+| Easy | **93** |
 | Medium | **15** |
 | Hard | **0** |
-| Current Streak | **107 Days** |
-| Current Focus | **Arrays / Matrix Manipulation** |
+| Current Streak | **108 Days** |
+| Current Focus | **Hash Map / Frequency Counting** |
 
 ## Patterns Learned
 
@@ -158,6 +158,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 105 | Cells with Odd Values in a Matrix | Easy | Arrays / Matrix / Simulation | [Python](arrays/cells_with_odd_values_in_a_matrix.py) |
 | 106 | How Many Numbers Are Smaller Than the Current Number | Easy | Arrays / Sorting / Hash Map | [Python](arrays/how_many_numbers_are_smaller_than_current_number.py) |
 | 107 | Reshape the Matrix | Easy | Arrays / Matrix Manipulation | [Python](arrays/reshape_the_matrix.py) |
+| 108 | Find Words That Can Be Formed by Characters | Easy | Hash Map / Frequency Counting | [Python](hash_map/find_words_that_can_be_formed_by_characters.py) |
 ---
 
 ## milestones:
