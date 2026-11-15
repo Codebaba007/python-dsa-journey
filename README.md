@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **109** |
-| Easy | **93** |
+| Total Problems Solved | **110** |
+| Easy | **94** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **109 Days** |
-| Current Focus | **Graphs / Multi-source BFS** |
+| Current Streak | **110 Days** |
+| Current Focus | **Sliding Window** |
 
 ## Patterns Learned
 
@@ -160,6 +160,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 107 | Reshape the Matrix | Easy | Arrays / Matrix Manipulation | [Python](arrays/reshape_the_matrix.py) |
 | 108 | Find Words That Can Be Formed by Characters | Easy | Hash Map / Frequency Counting | [Python](hash_map/find_words_that_can_be_formed_by_characters.py) |
 | 109 | Rotting Oranges | Medium | Graphs / Multi-source BFS | [Python](graphs/rotting_oranges.py) |
+| 110 | Maximum Average Subarray I | Easy | Sliding Window | [Python](sliding_window/maximum_average_subarray_i.py) |
 ---
 
 ## milestones:
