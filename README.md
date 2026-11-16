@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **110** |
-| Easy | **94** |
+| Total Problems Solved | **111** |
+| Easy | **95** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **110 Days** |
-| Current Focus | **Sliding Window** |
+| Current Streak | **111 Days** |
+| Current Focus | **Trees / DFS** |
 
 ## Patterns Learned
 
@@ -161,6 +161,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 108 | Find Words That Can Be Formed by Characters | Easy | Hash Map / Frequency Counting | [Python](hash_map/find_words_that_can_be_formed_by_characters.py) |
 | 109 | Rotting Oranges | Medium | Graphs / Multi-source BFS | [Python](graphs/rotting_oranges.py) |
 | 110 | Maximum Average Subarray I | Easy | Sliding Window | [Python](sliding_window/maximum_average_subarray_i.py) |
+| 111 | Symmetric Tree | Easy | Trees / DFS | [Python](trees/symmetric_tree.py) |
 ---
 
 ## milestones:
