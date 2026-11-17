@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **111** |
-| Easy | **95** |
+| Total Problems Solved | **112** |
+| Easy | **96** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **111 Days** |
-| Current Focus | **Trees / DFS** |
+| Current Streak | **112 Days** |
+| Current Focus | **Binary Search** |
 
 ## Patterns Learned
 
@@ -162,6 +162,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 109 | Rotting Oranges | Medium | Graphs / Multi-source BFS | [Python](graphs/rotting_oranges.py) |
 | 110 | Maximum Average Subarray I | Easy | Sliding Window | [Python](sliding_window/maximum_average_subarray_i.py) |
 | 111 | Symmetric Tree | Easy | Trees / DFS | [Python](trees/symmetric_tree.py) |
+| 112 | Find Smallest Letter Greater Than Target | Easy | Binary Search | [Python](binary_search/find_smallest_letter_greater_than_target.py) |
 ---
 
 ## milestones:
