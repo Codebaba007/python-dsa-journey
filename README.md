@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **112** |
-| Easy | **96** |
+| Total Problems Solved | **113** |
+| Easy | **97** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **112 Days** |
-| Current Focus | **Binary Search** |
+| Current Streak | **113 Days** |
+| Current Focus | **Heap / Priority Queue** |
 
 ## Patterns Learned
 
@@ -163,6 +163,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 110 | Maximum Average Subarray I | Easy | Sliding Window | [Python](sliding_window/maximum_average_subarray_i.py) |
 | 111 | Symmetric Tree | Easy | Trees / DFS | [Python](trees/symmetric_tree.py) |
 | 112 | Find Smallest Letter Greater Than Target | Easy | Binary Search | [Python](binary_search/find_smallest_letter_greater_than_target.py) |
+| 113 | Take Gifts From the Richest Pile | Easy | Heap / Priority Queue | [Python](heap/take_gifts_from_the_richest_pile.py) |
 ---
 
 ## milestones:
