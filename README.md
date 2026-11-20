@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **114** |
-| Easy | **98** |
+| Total Problems Solved | **115** |
+| Easy | **99** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **114 Days** |
-| Current Focus | **Queue / Simulation** |
+| Current Streak | **115 Days** |
+| Current Focus | **Two Pointers / Strings** |
 
 ## Patterns Learned
 
@@ -165,6 +165,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 112 | Find Smallest Letter Greater Than Target | Easy | Binary Search | [Python](binary_search/find_smallest_letter_greater_than_target.py) |
 | 113 | Take Gifts From the Richest Pile | Easy | Heap / Priority Queue | [Python](heap/take_gifts_from_the_richest_pile.py) |
 | 114 | Time Needed to Buy Tickets | Easy | Queue / Simulation | [Python](queue/time_needed_to_buy_tickets.py) |
+| 115 | Reverse Prefix of Word | Easy | Two Pointers / Strings | [Python](two_pointers/reverse_prefix_of_word.py) |
 ---
 
 ## milestones:
