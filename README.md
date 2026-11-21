@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **115** |
-| Easy | **99** |
+| Total Problems Solved | **116** |
+| Easy | **100** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **115 Days** |
-| Current Focus | **Two Pointers / Strings** |
+| Current Streak | **116 Days** |
+| Current Focus | **Dynamic Programming** |
 
 ## Patterns Learned
 
@@ -166,6 +166,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 113 | Take Gifts From the Richest Pile | Easy | Heap / Priority Queue | [Python](heap/take_gifts_from_the_richest_pile.py) |
 | 114 | Time Needed to Buy Tickets | Easy | Queue / Simulation | [Python](queue/time_needed_to_buy_tickets.py) |
 | 115 | Reverse Prefix of Word | Easy | Two Pointers / Strings | [Python](two_pointers/reverse_prefix_of_word.py) |
+| 116 | N-th Tribonacci Number | Easy | Dynamic Programming | [Python](dynamic_programming/nth_tribonacci_number.py) |
 ---
 
 ## milestones:
