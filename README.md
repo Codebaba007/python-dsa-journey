@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **116** |
-| Easy | **100** |
+| Total Problems Solved | **117** |
+| Easy | **101** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **116 Days** |
-| Current Focus | **Dynamic Programming** |
+| Current Streak | **117 Days** |
+| Current Focus | **Hash Set / Arrays** |
 
 ## Patterns Learned
 
@@ -167,6 +167,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 114 | Time Needed to Buy Tickets | Easy | Queue / Simulation | [Python](queue/time_needed_to_buy_tickets.py) |
 | 115 | Reverse Prefix of Word | Easy | Two Pointers / Strings | [Python](two_pointers/reverse_prefix_of_word.py) |
 | 116 | N-th Tribonacci Number | Easy | Dynamic Programming | [Python](dynamic_programming/nth_tribonacci_number.py) |
+| 117 | Find the Difference of Two Arrays | Easy | Hash Set / Arrays | [Python](hash_map/find_the_difference_of_two_arrays.py) |
 ---
 
 ## milestones:
