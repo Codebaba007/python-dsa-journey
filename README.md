@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **118** |
-| Easy | **102** |
+| Total Problems Solved | **119** |
+| Easy | **103** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **118 Days** |
-| Current Focus | **Prefix Sum / Arrays** |
+| Current Streak | **119 Days** |
+| Current Focus | **Linked List / Math** |
 
 ## Patterns Learned
 
@@ -169,6 +169,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 116 | N-th Tribonacci Number | Easy | Dynamic Programming | [Python](dynamic_programming/nth_tribonacci_number.py) |
 | 117 | Find the Difference of Two Arrays | Easy | Hash Set / Arrays | [Python](hash_map/find_the_difference_of_two_arrays.py) |
 | 118 | Find the Highest Altitude | Easy | Prefix Sum / Arrays | [Python](prefix_sum/find_the_highest_altitude.py) |
+| 119 | Convert Binary Number in a Linked List to Integer | Easy | Linked List / Math | [Python](linked_list/convert_binary_number_in_a_linked_list_to_integer.py) |
 ---
 
 ## milestones:
