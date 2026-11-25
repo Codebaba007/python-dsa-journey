@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **119** |
-| Easy | **103** |
+| Total Problems Solved | **120** |
+| Easy | **104** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **119 Days** |
-| Current Focus | **Linked List / Math** |
+| Current Streak | **120 Days** |
+| Current Focus | **Greedy / Sorting** |
 
 ## Patterns Learned
 
@@ -170,6 +170,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 117 | Find the Difference of Two Arrays | Easy | Hash Set / Arrays | [Python](hash_map/find_the_difference_of_two_arrays.py) |
 | 118 | Find the Highest Altitude | Easy | Prefix Sum / Arrays | [Python](prefix_sum/find_the_highest_altitude.py) |
 | 119 | Convert Binary Number in a Linked List to Integer | Easy | Linked List / Math | [Python](linked_list/convert_binary_number_in_a_linked_list_to_integer.py) |
+| 120 | Apple Redistribution into Boxes | Easy | Greedy / Sorting | [Python](greedy/apple_redistribution_into_boxes.py) |
 ---
 
 ## milestones:
