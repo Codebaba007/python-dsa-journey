@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **120** |
-| Easy | **104** |
+| Total Problems Solved | **121** |
+| Easy | **105** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **120 Days** |
-| Current Focus | **Greedy / Sorting** |
+| Current Streak | **121 Days** |
+| Current Focus | **Sliding Window (Fixed Size)** |
 
 ## Patterns Learned
 
@@ -171,6 +171,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 118 | Find the Highest Altitude | Easy | Prefix Sum / Arrays | [Python](prefix_sum/find_the_highest_altitude.py) |
 | 119 | Convert Binary Number in a Linked List to Integer | Easy | Linked List / Math | [Python](linked_list/convert_binary_number_in_a_linked_list_to_integer.py) |
 | 120 | Apple Redistribution into Boxes | Easy | Greedy / Sorting | [Python](greedy/apple_redistribution_into_boxes.py) |
+| 121 | Minimum Recolors to Get K Consecutive Black Blocks | Easy | Sliding Window (Fixed Size) | [Python](sliding_window/minimum_recolors_to_get_k_consecutive_black_blocks.py) |
 ---
 
 ## milestones:
