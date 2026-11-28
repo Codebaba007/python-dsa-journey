@@ -8,12 +8,12 @@ This repository documents my progress toward becoming a better problem solver by
 
 | Metric | Value |
 |--------|------:|
-| Total Problems Solved | **122** |
-| Easy | **106** |
+| Total Problems Solved | **123** |
+| Easy | **107** |
 | Medium | **16** |
 | Hard | **0** |
-| Current Streak | **122 Days** |
-| Current Focus | **Binary Search / Arrays** |
+| Current Streak | **123 Days** |
+| Current Focus | **Stack / Strings** |
 
 ## Patterns Learned
 
@@ -173,6 +173,7 @@ This section will continue to grow as I learn new algorithmic patterns.
 | 120 | Apple Redistribution into Boxes | Easy | Greedy / Sorting | [Python](greedy/apple_redistribution_into_boxes.py) |
 | 121 | Minimum Recolors to Get K Consecutive Black Blocks | Easy | Sliding Window (Fixed Size) | [Python](sliding_window/minimum_recolors_to_get_k_consecutive_black_blocks.py) |
 | 122 | Maximum Count of Positive Integer and Negative Integer | Easy | Binary Search / Arrays | [Python](binary_search/maximum_count_of_positive_integer_and_negative_integer.py) |
+| 123 | Clear Digits | Easy | Stack / Strings | [Python](stack/clear_digits.py) |
 ---
 
 ## milestones:
